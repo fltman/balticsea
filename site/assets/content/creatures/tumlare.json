@@ -1,0 +1,60 @@
+{
+  "id": "tumlare",
+  "latin": "Phocoena phocoena",
+  "i18n": {
+    "sv": {
+      "name": "Tumlare",
+      "role": "Den blyga lilla valen",
+      "status": "Akut hotad",
+      "fact": "Bara omkring 500 tumlare finns kvar i egentliga Östersjön.",
+      "levels": {
+        "academic": "Tumlaren är Östersjöns enda bofasta valart, en liten tandval som orienterar och jagar med ekolokalisering. Beståndet i egentliga Östersjön är genetiskt distinkt och akut hotat – SAMBAH-studien uppskattade det till omkring 500 individer. Den största dödsorsaken är bifångst i nätfiske, samtidigt som undervattensbuller maskerar djurets ekolokalisering och miljögifter tillsammans med vikande bytesbestånd försämrar dess kondition och fortplantning. HELCOM listar tumlaren som ett prioriterat marint däggdjur vars överlevnad kräver minskad bifångst och tystare hav.",
+        "general": "Tumlaren är den enda val som lever i Östersjön – en liten, skygg släkting till delfinen som är väldigt svår att få syn på. I egentliga Östersjön finns bara omkring 500 kvar, och de flesta dör genom att fastna och drunkna i fiskenät. Undervattensbuller stör dessutom deras \"ekoseende\", som de använder för att hitta mat och varandra.",
+        "child": "Tumlaren är Östersjöns enda val, och den är så blyg att nästan ingen hinner se den. Nu finns bara ungefär 500 kvar, för många fastnar i fiskenäten och kan inte komma upp för att andas.",
+        "preschool": "Hej! Jag är tumlaren, en pytteliten val som simmar alldeles tyst i havet. Vi är inte så många kvar, så var rädd om mig och mitt hav."
+      }
+    },
+    "en": {
+      "name": "Harbour porpoise",
+      "role": "The shy little whale",
+      "status": "Critically endangered",
+      "fact": "Only around 500 harbour porpoises remain in the Baltic Proper.",
+      "levels": {
+        "academic": "The harbour porpoise is the Baltic Sea's only resident cetacean, a small toothed whale that navigates and hunts by echolocation. The Baltic Proper population is genetically distinct and critically endangered, estimated by the SAMBAH study at roughly 500 individuals. Bycatch in gillnet fisheries is the leading cause of death, while underwater noise masks the animal's echolocation and contaminant loads together with declining prey impair its body condition and reproduction. HELCOM lists the species as a priority marine mammal whose survival depends on reduced bycatch and quieter seas.",
+        "general": "The harbour porpoise is the only whale that lives in the Baltic Sea – a small, shy cousin of the dolphin that is extremely hard to spot. Only about 500 are left in the Baltic Proper, and most of them die after becoming entangled and drowning in fishing nets. Underwater noise also disrupts the \"sound-sight\" they rely on to find food and each other.",
+        "child": "The harbour porpoise is the Baltic Sea's only whale, and it is so shy that hardly anyone ever sees it. Only about 500 are left, because many get caught in fishing nets and can't come up to breathe.",
+        "preschool": "Hi! I'm the porpoise, a tiny whale who swims very quietly through the sea. There aren't many of us left, so please take good care of me and my ocean."
+      }
+    },
+    "fi": {
+      "name": "Pyöriäinen",
+      "role": "Ujo pieni valas",
+      "status": "Äärimmäisen uhanalainen",
+      "fact": "Varsinaisella Itämerellä on jäljellä enää noin 500 pyöriäistä.",
+      "levels": {
+        "academic": "Pyöriäinen on ainoa Itämeressä vakituisesti elävä valas, pieni hammasvalas, joka suunnistaa ja saalistaa kaikuluotauksen avulla. Varsinaisen Itämeren kanta on geneettisesti erillinen ja äärimmäisen uhanalainen – SAMBAH-tutkimus arvioi sen kooksi noin 500 yksilöä. Merkittävin kuolinsyy on sivusaaliiksi joutuminen verkkokalastuksessa, kun taas vedenalainen melu peittää eläimen kaikuluotauksen ja ympäristömyrkyt sekä saaliskalojen väheneminen heikentävät sen kuntoa ja lisääntymistä. HELCOM luokittelee lajin tärkeäksi merinisäkkääksi, jonka säilyminen edellyttää sivusaaliin vähentämistä ja hiljaisempia meriä.",
+        "general": "Pyöriäinen on ainoa valas, joka elää Itämeressä – pieni ja ujo delfiinin sukulainen, jota on hyvin vaikea nähdä. Varsinaisella Itämerellä niitä on jäljellä enää noin 500, ja useimmat niistä kuolevat takertuessaan ja hukkuessaan kalaverkkoihin. Vedenalainen melu häiritsee myös niiden \"kaikunäköä\", jonka avulla ne löytävät ruokaa ja toisensa.",
+        "child": "Pyöriäinen on Itämeren ainoa valas, ja se on niin ujo, ettei sitä juuri kukaan ehdi nähdä. Niitä on jäljellä enää noin 500, koska monet jäävät kiinni kalaverkkoihin eivätkä pääse pintaan hengittämään.",
+        "preschool": "Hei! Minä olen pyöriäinen, pikkuruinen valas, joka ui aivan hiljaa meressä. Meitä ei ole enää montaa, joten pidäthän huolta minusta ja merestäni."
+      }
+    },
+    "de": {
+      "name": "Schweinswal",
+      "role": "Der scheue kleine Wal",
+      "status": "Vom Aussterben bedroht",
+      "fact": "In der eigentlichen Ostsee leben nur noch etwa 500 Schweinswale.",
+      "levels": {
+        "academic": "Der Schweinswal ist der einzige in der Ostsee heimische Wal, ein kleiner Zahnwal, der sich mithilfe der Echoortung orientiert und jagt. Der Bestand der eigentlichen Ostsee ist genetisch eigenständig und vom Aussterben bedroht – die SAMBAH-Studie schätzte ihn auf rund 500 Tiere. Häufigste Todesursache ist der Beifang in Stellnetzen, während Unterwasserlärm die Echoortung der Tiere überdeckt und Schadstoffe sowie schwindende Beutebestände ihre Kondition und Fortpflanzung beeinträchtigen. HELCOM führt die Art als prioritäres Meeressäugetier, dessen Überleben weniger Beifang und ruhigere Meere voraussetzt.",
+        "general": "Der Schweinswal ist der einzige Wal, der in der Ostsee lebt – ein kleiner, scheuer Verwandter des Delfins, den man nur sehr selten zu Gesicht bekommt. In der eigentlichen Ostsee gibt es nur noch etwa 500 Tiere, und die meisten von ihnen verfangen sich in Fischernetzen und ertrinken. Unterwasserlärm stört außerdem ihr \"Hörsehen\", mit dem sie Nahrung und einander finden.",
+        "child": "Der Schweinswal ist der einzige Wal der Ostsee, und er ist so scheu, dass ihn fast niemand zu sehen bekommt. Es gibt nur noch etwa 500 von ihnen, denn viele verfangen sich in Fischernetzen und können nicht zum Atmen auftauchen.",
+        "preschool": "Hallo! Ich bin der Schweinswal, ein winziger Wal, der ganz leise durch das Meer schwimmt. Es gibt nicht mehr viele von uns, also pass bitte gut auf mich und mein Meer auf."
+      }
+    }
+  },
+  "depth": 46,
+  "airBreather": true,
+  "voice": "A soft, shy, delicate voice — gentle, breathy and hushed, slightly high and fragile. Speaks quietly and tentatively, with timid pauses, as if afraid to be heard. Tender and vulnerable, yet quietly hopeful. The smallest, most elusive voice of all — easily missed, but deeply moving once you finally listen.",
+  "voiceId": "cOxao97od0zytCNeasJA",
+  "kbId": "aGzpu26RpyVsuycMUzpj",
+  "agentId": "agent_3201kw7xdcjeetgaq031x8c3bt8p"
+}

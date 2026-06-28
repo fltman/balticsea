@@ -1,0 +1,60 @@
+{
+  "id": "stromming",
+  "latin": "Clupea harengus membras",
+  "i18n": {
+    "sv": {
+      "name": "Strömming (sill)",
+      "role": "Den stressade stimfisken",
+      "status": "Nyckelart under press",
+      "fact": "Samma fisk har två namn: strömming norr om Kalmar, sill i väster.",
+      "levels": {
+        "academic": "Som central planktivor är strömmingen ett nav i Östersjöns näringsväv och en avgörande bytesresurs för torsk, säl, sjöfågel och tumlare. De senaste decennierna har medelstorleken och andelen stora individer minskat - en utveckling som forskare knyter både till hårt fisketryck, inte minst det storskaliga industrifisket efter fiskmjöl och foder, och till förändringar i ekosystemet. Mot bakgrund av ett försvagat bestånd har ICES upprepade gånger sänkt sina fångstrekommendationer, samtidigt som övergödning, syrebrist och tecken på regimskifte fortsätter att påverka rekrytering och kondition.",
+        "general": "Strömmingen är en mittpunkt i Östersjöns näringsväv - mat för torsk, säl, sjöfågel och tumlare. De stora strömmingarna har blivit allt färre, och oron växer för att det storskaliga fisket till fiskmjöl och djurfoder tär för hårt på bestånden. ICES har därför sänkt sina rekommendationer, och både det småskaliga kustfisket och skärgårdskulturen står på spel.",
+        "child": "Jag simmar i en jättestor stim med tusentals kompisar - tillsammans känns vi trygga. Men nu finns det färre stora strömmingar än förr, och många djur i havet behöver oss som mat.",
+        "preschool": "Hej! Jag är strömmingen, och jag simmar alltid med mina kompisar i en stor stim. Vi blir lite färre nu, men vi håller ihop."
+      }
+    },
+    "en": {
+      "name": "Baltic herring",
+      "role": "The stressed-out schooling fish",
+      "status": "Vital keystone species",
+      "fact": "One fish, two Swedish names: it's strömming north of Kalmar and sill in the west.",
+      "levels": {
+        "academic": "As a key planktivore, the Baltic herring is a central hub in the Baltic Sea food web and a critical prey resource for cod, seals, seabirds and harbour porpoises. Over recent decades both the mean body size and the proportion of large individuals have declined - a trend researchers link both to heavy fishing pressure, not least the large-scale industrial fishery supplying fishmeal and feed, and to wider ecosystem change. With the stock weakened, ICES has repeatedly lowered its catch advice, while eutrophication, hypoxia and signs of a regime shift continue to affect recruitment and body condition.",
+        "general": "The herring sits at the very heart of the Baltic food web - a meal for cod, seals, seabirds and porpoises alike. Large herring have grown scarce, and there is rising concern that industrial fishing for fishmeal and animal feed is taking too heavy a toll on the stocks. That is why ICES has cut its catch recommendations, with small-scale coastal fishing and archipelago culture hanging in the balance.",
+        "child": "I swim in a huge school with thousands of friends - together we feel safe. But there are fewer big herring than there used to be, and so many sea animals depend on us for food.",
+        "preschool": "Hi! I'm the little herring, and I always swim with my friends in one big group. There are fewer of us now, but we stay close together."
+      }
+    },
+    "fi": {
+      "name": "Silakka",
+      "role": "Stressaantunut parvikala",
+      "status": "Elintärkeä avainlaji",
+      "fact": "Silakka on sillin Itämeren-muoto - vähäsuolaiseen veteen sopeutunut ja hieman pienempi.",
+      "levels": {
+        "academic": "Keskeisenä planktonsyöjänä silakka on Itämeren ravintoverkon kulmakiviä ja tärkeä saaliskohde turskalle, hylkeille, merilinnuille ja pyöriäisille. Viime vuosikymmeninä silakan keskikoko ja suurten yksilöiden osuus ovat pienentyneet - kehitys, jonka tutkijat yhdistävät sekä kovaan kalastuspaineeseen, etenkin kalajauhoa ja rehua tuottavaan suurimittakaavaiseen teollisuuskalastukseen, että laajempiin ekosysteemimuutoksiin. Heikentyneen kannan vuoksi ICES on toistuvasti laskenut saalissuosituksiaan, samalla kun rehevöityminen, vähähappisuus ja merkit ekosysteemin tilamuutoksesta vaikuttavat edelleen poikastuotantoon ja kuntoon.",
+        "general": "Silakka on Itämeren ravintoverkon sydän - ruokaa turskalle, hylkeille, merilinnuille ja pyöriäisille. Suuret silakat ovat käyneet harvinaisiksi, ja huoli kasvaa siitä, että kalajauhoksi ja rehuksi suuntautuva teollinen kalastus verottaa kantoja liikaa. Siksi ICES on laskenut suosituksiaan, ja vaakalaudalla ovat pienimuotoinen rannikkokalastus ja saaristokulttuuri.",
+        "child": "Uin valtavassa parvessa tuhansien kavereiden kanssa - yhdessä tunnemme olomme turvalliseksi. Mutta isoja silakoita on nyt vähemmän kuin ennen, ja moni meren eläin tarvitsee meitä ruoakseen.",
+        "preschool": "Hei! Minä olen silakka, ja uin aina kavereitteni keskellä isossa parvessa. Meitä on nyt vähän vähemmän, mutta me pidämme yhtä."
+      }
+    },
+    "de": {
+      "name": "Ostseehering",
+      "role": "Der gestresste Schwarmfisch",
+      "status": "Lebenswichtige Schlüsselart",
+      "fact": "Der Ostseehering ist die kleinere, ans Brackwasser angepasste Form des Atlantischen Herings.",
+      "levels": {
+        "academic": "Als wichtiger Planktonfresser ist der Ostseehering ein zentraler Knotenpunkt im Nahrungsnetz der Ostsee und eine entscheidende Beutequelle für Dorsch, Robben, Seevögel und Schweinswale. In den letzten Jahrzehnten sind die mittlere Körpergröße und der Anteil großer Tiere zurückgegangen - eine Entwicklung, die Forschende sowohl auf den hohen Fischereidruck, allen voran die großindustrielle Fischerei für Fischmehl und Futtermittel, als auch auf weiterreichende Veränderungen im Ökosystem zurückführen. Angesichts des geschwächten Bestands hat der ICES seine Fangempfehlungen wiederholt gesenkt, während Eutrophierung, Sauerstoffmangel (Hypoxie) und Anzeichen eines Regimewechsels weiterhin Nachwuchs und Kondition beeinträchtigen.",
+        "general": "Der Hering ist das Herz des Ostsee-Nahrungsnetzes - Nahrung für Dorsch, Robben, Seevögel und Schweinswale. Große Heringe sind selten geworden, und es wächst die Sorge, dass die industrielle Fischerei für Fischmehl und Tierfutter die Bestände zu stark belastet. Deshalb hat der ICES seine Empfehlungen gesenkt - auf dem Spiel stehen die kleine Küstenfischerei und die Schärenkultur.",
+        "child": "Ich schwimme in einem riesigen Schwarm mit Tausenden Freunden - zusammen fühlen wir uns sicher. Aber es gibt weniger große Heringe als früher, und so viele Meerestiere brauchen uns als Futter.",
+        "preschool": "Hallo! Ich bin der kleine Hering und schwimme immer mit vielen Freunden in einem großen Schwarm. Jetzt werden wir ein bisschen weniger, doch wir halten fest zusammen."
+      }
+    }
+  },
+  "depth": 56,
+  "airBreather": false,
+  "voice": "A jittery, breathless voice — mid-to-high, slightly trembling, always a half-step behind. Fast, clipped delivery that tumbles over itself, with nervous little catches of breath. Anxious and overwhelmed, like someone trying to hold a whole crowd together at once. Restless, well-meaning, never quite calm.",
+  "voiceId": "Yk0WTrU4nwMPUzSTiH9J",
+  "kbId": "NvKjpOKkPJ5xd4IGf07K",
+  "agentId": "agent_8701kw7xdtbqfd8armxp4ysjea05"
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Östersjön — en resa neråt</title>
+  <meta name="description" content="En resa från Östersjöns yta ner i djupet. Möt havets varelser och hör om deras situation — på din nivå, på ditt språk." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- driven background water column -->
+  <div id="sea" aria-hidden="true"></div>
+  <div id="fx" aria-hidden="true"></div>
+  <div id="caustics" aria-hidden="true"></div>
+  <div id="vignette" aria-hidden="true"></div>
+
+  <!-- top control bar -->
+  <header id="bar">
+    <div class="bar-brand" id="brand">Östersjön</div>
+    <div class="bar-controls">
+      <div class="ctrl ctrl-level">
+        <label id="levelTitle" for="levelRange">Läsnivå</label>
+        <input type="range" id="levelRange" min="0" max="3" step="1" value="1" />
+        <span class="level-name" id="levelName">Allmän</span>
+      </div>
+      <div class="ctrl ctrl-lang">
+        <span id="langLabel" class="sr-only">Språk</span>
+        <div id="langButtons" class="lang-buttons" role="group" aria-label="Språk"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- depth gauge -->
+  <aside id="gauge" aria-label="Djupreglage">
+    <span class="gauge-top" id="gaugeTop">Ytan</span>
+    <div class="gauge-track" id="gaugeTrack" tabindex="0" role="slider" aria-label="Djup" aria-valuemin="0" aria-valuemax="459" aria-valuenow="0" aria-valuetext="0 meter">
+      <div class="gauge-hit"></div>
+      <div class="gauge-fill" id="gaugeFill"></div>
+      <div class="gauge-knob" id="gaugeKnob"></div>
+    </div>
+    <span class="gauge-depth" id="gaugeDepth">0 m</span>
+    <span class="gauge-bottom" id="gaugeBottom">Djupet</span>
+  </aside>
+
+  <main id="main">
+    <!-- HERO / SURFACE -->
+    <section id="hero">
+      <div class="sky">
+        <img class="sun parallax" data-depth="0.25" src="assets/sun.png" alt="" />
+        <img class="cloud cloud-a parallax" data-depth="0.5" src="assets/cloud.png" alt="" />
+        <img class="cloud cloud-b parallax" data-depth="0.7" src="assets/cloud.png" alt="" />
+      </div>
+      <div class="hero-copy">
+        <h1 id="title">Under ytan</h1>
+        <p id="subtitle">En resa från Östersjöns yta ner i djupet.</p>
+        <p id="introText" class="intro-text"></p>
+        <div class="scroll-hint" id="scrollHint">Scrolla för att dyka <span class="chev">⌄</span></div>
+      </div>
+      <div class="waterline">
+        <img class="boat parallax" data-depth="0.15" src="assets/boat.png" alt="" />
+      </div>
+    </section>
+
+    <!-- CREATURE SCENES injected here -->
+    <div id="creatures"></div>
+
+    <!-- DEAD ZONE -->
+    <section id="deadzone">
+      <div class="dead-inner">
+        <h2 id="deadTitle">Den döda zonen</h2>
+        <p id="deadText"></p>
+      </div>
+    </section>
+
+    <!-- OUTRO / SEAFLOOR -->
+    <section id="outro">
+      <div class="outro-card">
+        <p id="outroText" class="outro-text"></p>
+        <button id="restart" class="restart-btn">Upp till ytan</button>
+        <div class="about">
+          <h2 id="aboutTitle">Om sajten</h2>
+          <p id="aboutText"></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

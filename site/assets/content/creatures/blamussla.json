@@ -1,0 +1,60 @@
+{
+  "id": "blamussla",
+  "latin": "Mytilus trossulus",
+  "i18n": {
+    "sv": {
+      "name": "Blåmussla",
+      "role": "Havets lilla filter",
+      "status": "Livsviktig nyckelart",
+      "fact": "Blåmusslan silar vattnet rent från partiklar och näring – musselodling lyfts av HELCOM som ett sätt att motverka övergödningen.",
+      "levels": {
+        "academic": "Blåmusslan (Mytilus trossulus) är en suspensionsätare som filtrerar fytoplankton och partikulärt material ur vattenmassan och därmed binder kväve och fosfor i biomassa – en biologisk motvikt till övergödningen. I Östersjöns låga salthalt uppstår osmotisk stress som kraftigt hämmar tillväxten, varför individerna förblir betydligt mindre än sina marina artfränder. Musslorna bildar täta bankar på blåstång och hårdbotten och är en central länk i näringscykeln samt föda för ejder och andra dykänder. Musselodling lyfts av HELCOM som en åtgärd för att återföra näring från vattnet till land och motverka regional eutrofiering.",
+        "general": "Blåmusslan är Östersjöns lilla vattenreningsverk: den silar vattnet och tar upp partiklar och näringsämnen som kväve och fosfor, så att vattnet blir klarare. Här i det bräckta vattnet blir musslorna små, men de sitter i täta bankar på blåstång och sten och är viktig mat för ejder. Därför ses musselodling som ett sätt att minska övergödningen.",
+        "child": "Blåmusslan är som ett pyttelitet filter som suger in vatten och rensar bort smuts och näring, så att vattnet blir klarare. I Östersjön blir musslorna jättesmå, men de sitter tätt ihop på stenar och tång och blir mat åt ejdrarna.",
+        "preschool": "Hej! Jag är blåmusslan och jag städar vattnet åt dig genom att suga in det och rensa bort smutsen. Här i Östersjön är jag pytteliten, men det är okej – tillsammans är vi jättemånga!"
+      }
+    },
+    "en": {
+      "name": "Blue mussel",
+      "role": "The sea's little filter",
+      "status": "Vital keystone species",
+      "fact": "By filtering particles and nutrients from the water, the blue mussel makes it clearer – which is why HELCOM promotes mussel farming to fight eutrophication.",
+      "levels": {
+        "academic": "The blue mussel (Mytilus trossulus) is a suspension feeder that filters phytoplankton and particulate matter from the water column, sequestering nitrogen and phosphorus in its biomass and acting as a biological counterweight to eutrophication. The Baltic's low salinity imposes osmotic stress that markedly suppresses growth, so individuals remain far smaller than their marine counterparts. Forming dense beds on bladderwrack and hard substrate, the mussels are a central link in the nutrient cycle and key prey for eider and other diving ducks. HELCOM highlights mussel farming as a measure to return nutrients from the sea to land and curb regional eutrophication.",
+        "general": "The blue mussel is the Baltic's tiny water-treatment plant: it filters the water, taking up particles and nutrients like nitrogen and phosphorus and leaving it clearer. In this brackish sea the mussels stay small, but they cluster in dense beds on bladderwrack and stones and are vital food for eider ducks. That is why cultivating mussels is seen as a way to reduce eutrophication.",
+        "child": "The blue mussel is like a tiny filter that sucks in water and cleans out the dirt and food bits, so the water turns clearer. In the Baltic the mussels stay really small, but they pack together on rocks and seaweed and become dinner for the eider ducks.",
+        "preschool": "Hi! I'm the blue mussel, and I clean the water for you by slurping it in and taking out the dirt. Here in the Baltic Sea I'm teeny-tiny, but that's okay – there are so many of us together!"
+      }
+    },
+    "fi": {
+      "name": "Sinisimpukka",
+      "role": "Meren pieni suodatin",
+      "status": "Elintärkeä avainlaji",
+      "fact": "Suodattamalla hiukkasia ja ravinteita sinisimpukka kirkastaa vettä – siksi HELCOM suosittelee simpukoiden viljelyä rehevöitymisen torjuntaan.",
+      "levels": {
+        "academic": "Sinisimpukka (Mytilus trossulus) on suspensiosyöjä, joka suodattaa kasviplanktonia ja hiukkasmaista ainesta vesipatsaasta ja sitoo typpeä ja fosforia biomassaansa toimien näin biologisena vastapainona rehevöitymiselle. Itämeren alhainen suolapitoisuus aiheuttaa osmoottista stressiä, joka hidastaa kasvua voimakkaasti, joten yksilöt jäävät huomattavasti merellisiä lajitovereitaan pienemmiksi. Simpukat muodostavat tiheitä pankkeja kiinnittymällä rakkohauruun ja kovaan pohjaan ja ovat keskeinen lenkki ravinnekierrossa sekä tärkeää ravintoa haahkoille ja muille sukeltajasorsille. HELCOM nostaa simpukoiden viljelyn esiin keinona palauttaa ravinteita merestä maalle ja hillitä alueellista rehevöitymistä.",
+        "general": "Sinisimpukka on Itämeren pieni vedenpuhdistamo: se suodattaa vettä ja ottaa talteen hiukkasia ja ravinteita, kuten typpeä ja fosforia, jolloin vesi kirkastuu. Tässä murtovedessä simpukat jäävät pieniksi, mutta ne kasvavat tiheinä mattoina rakkohaurun ja kivien päällä ja ovat tärkeää ravintoa haahkoille. Siksi simpukoiden viljelyä pidetään keinona vähentää rehevöitymistä.",
+        "child": "Sinisimpukka on kuin pikkuruinen suodatin, joka imee vettä sisäänsä ja puhdistaa siitä liat ja ravinteet pois, niin että vesi kirkastuu. Itämeressä simpukat jäävät tosi pieniksi, mutta ne ovat tiiviisti yhdessä kivillä ja levissä ja päätyvät haahkojen ruoaksi.",
+        "preschool": "Hei! Minä olen sinisimpukka, ja minä puhdistan veden imemällä sitä sisääni ja ottamalla liat pois. Täällä Itämeressä olen ihan pikkuruinen, mutta ei se haittaa – meitä on yhdessä tosi paljon!"
+      }
+    },
+    "de": {
+      "name": "Miesmuschel",
+      "role": "Der kleine Filter des Meeres",
+      "status": "Lebenswichtige Schlüsselart",
+      "fact": "Indem sie Partikel und Nährstoffe aus dem Wasser filtert, macht die Miesmuschel es klarer – deshalb empfiehlt die HELCOM Muschelzucht gegen die Überdüngung.",
+      "levels": {
+        "academic": "Die Miesmuschel (Mytilus trossulus) ist ein Suspensionsfresser, der Phytoplankton und partikuläres Material aus der Wassersäule filtert und dabei Stickstoff und Phosphor in seiner Biomasse bindet – ein biologisches Gegengewicht zur Überdüngung (Eutrophierung). Der niedrige Salzgehalt der Ostsee verursacht osmotischen Stress, der das Wachstum stark hemmt, sodass die Tiere deutlich kleiner bleiben als ihre Artgenossen in vollmarinen Gewässern. Auf Blasentang und Hartsubstrat bilden die Muscheln dichte Bänke und sind ein zentrales Glied im Nährstoffkreislauf sowie wichtige Beute für Eiderenten und andere Tauchenten. Die HELCOM hebt die Muschelzucht als Maßnahme hervor, um Nährstoffe aus dem Meer an Land zurückzuführen und der regionalen Eutrophierung entgegenzuwirken.",
+        "general": "Die Miesmuschel ist die kleine Kläranlage der Ostsee: Sie filtert das Wasser und nimmt Partikel und Nährstoffe wie Stickstoff und Phosphor auf, sodass es klarer wird. In diesem Brackwasser bleiben die Muscheln klein, doch sie sitzen in dichten Bänken auf Blasentang und Steinen und sind wichtige Nahrung für Eiderenten. Deshalb gilt die Muschelzucht als ein Weg, die Überdüngung zu verringern.",
+        "child": "Die Miesmuschel ist wie ein winziger Filter, der Wasser einsaugt und Schmutz und Nährstoffe herausputzt, sodass das Wasser klarer wird. In der Ostsee bleiben die Muscheln ganz klein, aber sie sitzen dicht an dicht auf Steinen und Algen und werden zum Futter für die Eiderenten.",
+        "preschool": "Hallo! Ich bin die Miesmuschel und ich putze das Wasser für dich, indem ich es einsauge und den Schmutz herausnehme. Hier in der Ostsee bin ich ganz winzig, aber das ist okay – zusammen sind wir ganz viele!"
+      }
+    }
+  },
+  "depth": 28,
+  "airBreather": false,
+  "voice": "A soft, humble, soothing voice — quiet, mid-to-low and a little shy. Calm, steady, almost meditative pace with a warm, contented tone. Modest and unassuming, speaking gently as if not to disturb the water. Patient and kind, the quiet hard worker who filters away without ever asking for thanks.",
+  "voiceId": "eioDq76WbFNgeBbYSB9I",
+  "kbId": "rPDLjj1DZ3IkRzILFIIF",
+  "agentId": "agent_2201kw7xcf6xe77bw7500ebhh2yf"
+}

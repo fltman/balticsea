@@ -1,0 +1,60 @@
+{
+  "id": "blastang",
+  "latin": "Fucus vesiculosus",
+  "i18n": {
+    "sv": {
+      "name": "Blåstång",
+      "role": "Undervattensskogen",
+      "status": "Minskande nyckelhabitat",
+      "fact": "Blåstången växer ända ner till omkring tio meters djup, och HELCOM mäter just hur djupt den når som ett mått på hur frisk Östersjön är.",
+      "levels": {
+        "academic": "Blåstång (Fucus vesiculosus) är en habitatbildande brunalg som utgör Östersjöns viktigaste tångskog på hårdbotten i den fotiska zonen, cirka 0-10 meter. Den tredimensionella strukturen ger skydd, föda och barnkammare åt snäckor, kräftdjur och fiskyngel. Vid övergödning minskar siktdjupet, vilket tvingar bältet att krypa grundare, samtidigt som fintrådiga påväxtalger (slick) överväxer och kväver bålarna. HELCOM följer artens djuputbredning som en indikator på Östersjöns ekologiska status.",
+        "general": "Blåstången är Östersjöns undervattensskog — en brunalg som bildar täta bälten på klippor och stenar nära ytan. Bland grenarna gömmer sig massor av smådjur och fiskyngel. När vattnet grumlas av övergödning trängs skogen ihop på grundare vatten och växer igen av trådalger.",
+        "child": "Blåstången är som en skog under vattnet, där små djur och fiskyngel gömmer sig och hittar mat. När havet blir grumligt och smutsigt får skogen svårt att växa — och då blir många små djur hemlösa.",
+        "preschool": "Hej! Jag är blåstången, en hel skog under vattnet där pyttesmå djur bor. Jag mår bäst när vattnet är klart och rent."
+      }
+    },
+    "en": {
+      "name": "Bladderwrack",
+      "role": "The Underwater Forest",
+      "status": "Declining keystone habitat",
+      "fact": "Bladderwrack grows down to around ten metres deep, and HELCOM tracks exactly how deep it reaches as a measure of the Baltic Sea's health.",
+      "levels": {
+        "academic": "Bladderwrack (Fucus vesiculosus) is a habitat-forming brown alga that constitutes the Baltic Sea's principal canopy on hard substrates within the photic zone, roughly 0-10 m. Its three-dimensional structure provides shelter, food and nursery habitat for snails, crustaceans and fish larvae. Eutrophication reduces water clarity, forcing the belt into shallower water while filamentous epiphytes overgrow and smother the thalli. HELCOM monitors the species' depth distribution as an indicator of the Baltic Sea's ecological status.",
+        "general": "Bladderwrack is the Baltic Sea's underwater forest — a brown seaweed that forms dense belts on rocks and stones near the surface. Countless small creatures and fish fry shelter among its branches. When eutrophication clouds the water, the forest is squeezed into shallower depths and choked by filamentous algae.",
+        "child": "Bladderwrack is like a forest under the water, where little animals and baby fish hide and find food. When the sea turns murky and dirty, the forest struggles to grow — and many small animals lose their home.",
+        "preschool": "Hi! I'm bladderwrack, a whole forest under the water where tiny animals live. I feel best when the water is clear and clean."
+      }
+    },
+    "fi": {
+      "name": "Rakkohauru",
+      "role": "Vedenalainen metsä",
+      "status": "Vähenevä avainelinympäristö",
+      "fact": "Rakkohauru kasvaa noin kymmenen metrin syvyyteen asti, ja HELCOM seuraa juuri sen syvyyslevinneisyyttä Itämeren terveyden mittarina.",
+      "levels": {
+        "academic": "Rakkohauru (Fucus vesiculosus) on elinympäristöä muodostava ruskolevä, joka rakentaa Itämeren tärkeimmän vedenalaisen metsän kovalle pohjalle valoisaan vyöhykkeeseen, noin 0-10 metrin syvyyteen. Sen kolmiulotteinen rakenne tarjoaa suojaa, ravintoa ja kasvualueen kotiloille, äyriäisille ja kalanpoikasille. Rehevöityminen vähentää veden kirkkautta, jolloin vyöhyke joutuu siirtymään matalampaan veteen ja rihmamaiset päällyslevät tukahduttavat sen kasvustot. HELCOM seuraa lajin syvyyslevinneisyyttä Itämeren ekologisen tilan indikaattorina.",
+        "general": "Rakkohauru on Itämeren vedenalainen metsä — ruskolevä, joka muodostaa tiheitä vöitä kallioille ja kiville lähelle pintaa. Sen haarojen suojassa piilee lukematon määrä pikkueläimiä ja kalanpoikasia. Kun rehevöityminen samentaa veden, metsä ahtautuu matalampaan veteen ja rihmalevät peittävät sen.",
+        "child": "Rakkohauru on kuin metsä veden alla, jossa pienet eläimet ja kalanpoikaset piileskelevät ja löytävät ruokaa. Kun meri muuttuu sameaksi ja likaiseksi, metsän on vaikea kasvaa — ja monet pikkueläimet jäävät kodittomiksi.",
+        "preschool": "Hei! Olen rakkohauru, kokonainen metsä veden alla, jossa asuu pikkuruisia eläimiä. Voin parhaiten, kun vesi on kirkasta ja puhdasta."
+      }
+    },
+    "de": {
+      "name": "Blasentang",
+      "role": "Der Unterwasserwald",
+      "status": "Schwindender Schlüssellebensraum",
+      "fact": "Der Blasentang wächst bis in etwa zehn Meter Tiefe, und HELCOM verfolgt gerade seine Tiefenverbreitung als Maß für die Gesundheit der Ostsee.",
+      "levels": {
+        "academic": "Der Blasentang (Fucus vesiculosus) ist eine habitatbildende Braunalge, die auf Hartböden in der lichtdurchfluteten Zone von etwa 0-10 Metern den wichtigsten Unterwasserwald der Ostsee bildet. Seine dreidimensionale Struktur bietet Schnecken, Krebstieren und Fischlarven Schutz, Nahrung und Kinderstube. Bei Eutrophierung sinkt die Sichttiefe, sodass der Gürtel in flacheres Wasser ausweichen muss, während fädige Aufwuchsalgen die Thalli überwuchern und ersticken. HELCOM überwacht die Tiefenverbreitung der Art als Indikator für den ökologischen Zustand der Ostsee.",
+        "general": "Der Blasentang ist der Unterwasserwald der Ostsee — eine Braunalge, die dichte Gürtel auf Felsen und Steinen nahe der Oberfläche bildet. Zwischen seinen Zweigen verstecken sich unzählige Kleintiere und Fischbrut. Wenn die Eutrophierung das Wasser trübt, wird der Wald in flacheres Wasser gedrängt und von Fadenalgen überwuchert.",
+        "child": "Der Blasentang ist wie ein Wald unter Wasser, in dem sich kleine Tiere und Fischbabys verstecken und Futter finden. Wenn das Meer trüb und schmutzig wird, kann der Wald nur schwer wachsen — und viele kleine Tiere verlieren ihr Zuhause.",
+        "preschool": "Hallo! Ich bin der Blasentang, ein ganzer Wald unter Wasser, in dem winzige Tiere wohnen. Mir geht es am besten, wenn das Wasser klar und sauber ist."
+      }
+    }
+  },
+  "depth": 4,
+  "airBreather": false,
+  "voice": "A warm, motherly, welcoming voice — rich, gentle and grand, like the kindly host of an ancient forest. Mid-low pitch, slow and reassuring, with a soft, rustling calm. Nurturing, wise and protective; the kind of voice that makes small creatures feel safe and at home among its swaying fronds.",
+  "voiceId": "1MgDdKtXmTFN4f0XcG2A",
+  "kbId": "SR3fiii5Gkv8ZKOu2jx0",
+  "agentId": "agent_0301kw7xakwcf7xa2pre5eynv7jn"
+}

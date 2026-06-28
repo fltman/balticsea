@@ -1,0 +1,60 @@
+{
+  "id": "skarpsill",
+  "latin": "Sprattus sprattus",
+  "i18n": {
+    "sv": {
+      "name": "Skarpsill",
+      "role": "Den lilla snabba optimisten",
+      "status": "Talrik",
+      "fact": "När torsken kollapsade tog skarpsillen över - ett klassiskt regimskifte i Östersjön.",
+      "levels": {
+        "academic": "Skarpsillen (Sprattus sprattus) är en liten pelagisk planktivor vars bestånd expanderade kraftigt under det regimskifte som följde när torskbeståndet kollapsade - ett klassiskt exempel på predator release, det vill säga att rovdjurstrycket från torsken släppte. Som zooplanktonkonsument konkurrerar den med strömming om samma föda, vilket gör interaktionen täthetsberoende. ICES gör årliga beståndsskattningar och ger förvaltningsråd, och arten fångas industriellt och förädlas till fiskmjöl och fiskolja - något som aktualiserar frågor om bifångst och hållbart uttag. Skarpsillen gynnas dessutom av varmare vatten, medan torsken hålls tillbaka av syrebrist (hypoxi) kopplad till övergödning.",
+        "general": "Skarpsillen är en liten, snabb fisk som lever av djurplankton och simmar i stora stim. Den ökade kraftigt när torsken - dess viktigaste rovdjur - minskade, och i dag tävlar den med strömmingen om maten. Den fångas i stora mängder för industribruk och trivs dessutom när vattnet blir varmare.",
+        "child": "Skarpsillen är en pytteliten fisk som simmar snabbt i jättestora stim. När de stora torskarna blev färre fick skarpsillen plötsligt mycket mer plats - och blev jättemånga!",
+        "preschool": "Hej! Jag är skarpsillen, pytteliten men supersnabb. Vi simmar många tillsammans, och just nu är vi jättemånga!"
+      }
+    },
+    "en": {
+      "name": "Sprat",
+      "role": "The little speedy optimist",
+      "status": "Abundant",
+      "fact": "When cod collapsed, the sprat took over - a classic Baltic regime shift.",
+      "levels": {
+        "academic": "The sprat (Sprattus sprattus) is a small pelagic planktivore whose biomass expanded sharply during the regime shift that followed the collapse of the Baltic cod stock - a textbook case of predator release. As a zooplankton feeder it competes directly with herring for the same prey, making the interaction strongly density-dependent. ICES assesses the stock annually and issues management advice, and the species is harvested industrially for fishmeal and fish oil, raising questions of bycatch and sustainable removals. Warming waters tend to favour the sprat, whereas cod remains constrained by hypoxia linked to eutrophication.",
+        "general": "The sprat is a small, fast fish that lives on zooplankton and travels in huge schools. Its numbers soared as cod - its main predator - declined, and it now competes with herring for food. It is caught in large volumes for industrial use and does well as the sea grows warmer.",
+        "child": "The sprat is a tiny fish that zips through the water in enormous schools. When the big cod grew rare, the sprat suddenly had loads of room - and became incredibly numerous!",
+        "preschool": "Hi! I'm the sprat - really tiny but super fast. We swim in big groups so nobody is alone, and right now there are loads of us!"
+      }
+    },
+    "fi": {
+      "name": "Kilohaili",
+      "role": "Pieni nopea optimisti",
+      "status": "Runsaslukuinen",
+      "fact": "Kun turskakanta romahti, kilohaili otti vallan - klassinen Itämeren regiiminmuutos.",
+      "levels": {
+        "academic": "Kilohaili (Sprattus sprattus) on pieni pelaginen planktonsyöjä, jonka kanta runsastui voimakkaasti turskakannan romahdusta seuranneessa regiiminmuutoksessa - tyyppiesimerkki saalistuspaineen vähenemisestä (predator release). Eläinplanktonin kuluttajana se kilpailee silakan kanssa samasta ravinnosta, mikä tekee vuorovaikutuksesta tiheysriippuvaisen. ICES arvioi kannan vuosittain ja antaa hoitosuosituksia, ja lajia pyydetään teollisesti kalajauhoksi ja -öljyksi, mikä nostaa esiin sivusaaliin ja kestävän pyynnin kysymykset. Lämpenevä vesi suosii kilohailia, kun taas turskaa rajoittaa rehevöitymiseen kytkeytyvä hapenpuute (hypoksia).",
+        "general": "Kilohaili on pieni ja nopea kala, joka syö eläinplanktonia ja ui suurissa parvissa. Sen määrä kasvoi voimakkaasti, kun turska - sen tärkein saalistaja - väheni, ja nyt se kilpailee silakan kanssa ravinnosta. Sitä pyydetään suuria määriä teollisuuden tarpeisiin, ja se viihtyy veden lämmetessä.",
+        "child": "Kilohaili on pikkuruinen kala, joka kiitää vedessä valtavissa parvissa. Kun iso turska kävi harvinaiseksi, kilohaili sai yhtäkkiä paljon tilaa - ja niitä tuli tosi paljon!",
+        "preschool": "Hei! Minä olen kilohaili, ihan pikkuruinen mutta tosi nopea. Me uimme isona joukkona, eikä kukaan jää yksin - ja juuri nyt meitä on tosi paljon!"
+      }
+    },
+    "de": {
+      "name": "Sprotte",
+      "role": "Der kleine schnelle Optimist",
+      "status": "Häufig",
+      "fact": "Als der Dorschbestand zusammenbrach, übernahm die Sprotte - ein klassischer Regimewechsel in der Ostsee.",
+      "levels": {
+        "academic": "Die Sprotte (Sprattus sprattus) ist ein kleiner pelagischer Planktonfresser, dessen Bestand im Zuge des Regimewechsels nach dem Zusammenbruch des Dorschbestands stark anwuchs - ein Lehrbuchbeispiel für predator release, also den Wegfall des Fraßdrucks durch den Dorsch. Als Zooplanktonfresser konkurriert sie unmittelbar mit dem Hering um dieselbe Nahrung, weshalb die Wechselwirkung stark dichteabhängig ist. ICES bewertet den Bestand jährlich und gibt Bewirtschaftungsempfehlungen, und die Art wird industriell zu Fischmehl und Fischöl verarbeitet, was Fragen von Beifang und nachhaltiger Entnahme aufwirft. Wärmeres Wasser begünstigt die Sprotte, während der Dorsch durch eutrophierungsbedingte Sauerstoffarmut (Hypoxie) eingeschränkt bleibt.",
+        "general": "Die Sprotte ist ein kleiner, schneller Fisch, der sich von Zooplankton ernährt und in riesigen Schwärmen schwimmt. Ihr Bestand wuchs stark, als der Dorsch - ihr wichtigster Räuber - zurückging, und heute konkurriert sie mit dem Hering um Nahrung. Sie wird in großen Mengen industriell gefangen und profitiert zudem von wärmerem Wasser.",
+        "child": "Die Sprotte ist ein winziger Fisch, der blitzschnell in riesigen Schwärmen durchs Wasser flitzt. Als der große Dorsch selten wurde, hatte die Sprotte plötzlich ganz viel Platz - und wurde unglaublich zahlreich!",
+        "preschool": "Hallo! Ich bin die Sprotte, ganz winzig, aber superschnell. Wir schwimmen alle zusammen, damit niemand allein ist - und gerade jetzt sind wir ganz viele!"
+      }
+    }
+  },
+  "depth": 66,
+  "airBreather": false,
+  "voice": "A bright, peppy young voice — high, light and quick, brimming with cheerful energy. Bouncy rhythm, upbeat and curious, with a grin you can hear. Talks fast and excitedly, finding the silver lining in everything. Small, plucky and irrepressibly positive, like a kid who simply can't sit still.",
+  "voiceId": "9WKuln5hZALO95N3JPGM",
+  "kbId": "Y4lRf7dPdFqtoSnxlwHC",
+  "agentId": "agent_8501kw7xebywfcwtfbymwcp31fn3"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "torsk",
+  "latin": "Gadus morhua",
+  "i18n": {
+    "sv": {
+      "name": "Torsk",
+      "role": "Den trötta gamla rovfisken",
+      "status": "Beståndet har kollapsat",
+      "fact": "EU stoppade det riktade torskfisket i östra Östersjön 2019.",
+      "levels": {
+        "academic": "Torsken (Gadus morhua) var länge Östersjöns dominerande rovfisk, men det östra beståndet har genomgått ett regimskifte och kollapsat. Övergödningen driver utbredd syrebrist som krymper artens livsmiljö och tränger ihop fisken i ett smalt skikt ovanför de döda bottnarna, samtidigt som uteblivna saltvatteninflöden från Nordsjön försämrar reproduktionen. Magrare individer, hög parasitbörda (framför allt den sälspridda levermasken Contracaecum osculatum) och brist på bytesfisk samspelar med fortsatt bifångst, och 2019 stoppade EU på ICES inrådan det riktade fisket. Torsken har blivit en symbol för en rubbad balans i ekosystemet, något som HELCOM och ICES följer noga.",
+        "general": "Torsken var en gång Östersjöns stora rovfisk, men det östra beståndet har kollapsat och fisken är i dag mindre och magrare än förr. Syrebristen vid bottnarna krymper dess livsutrymme, och utan inflöden av salt, syrerikt vatten från Nordsjön har den svårt att leka. EU stoppade det riktade torskfisket 2019.",
+        "child": "Förr var torsken Östersjöns största rovfisk, men nu finns det nästan inga stora torskar kvar. De har blivit små och magra och vågar knappt simma ner till botten, där vattnet saknar syre.",
+        "preschool": "Hej! Jag är torsken, en gammal trött rovfisk. Förr var vi många och stora, men nu är vi ganska få och små – så jag behöver din hjälp att må bättre."
+      }
+    },
+    "en": {
+      "name": "Cod",
+      "role": "The tired old predator fish",
+      "status": "Stock has collapsed",
+      "fact": "The EU halted targeted cod fishing in the eastern Baltic in 2019.",
+      "levels": {
+        "academic": "Cod (Gadus morhua) was long the Baltic Sea's dominant predator, but the eastern stock has undergone a regime shift and collapsed. Eutrophication drives widespread hypoxia that shrinks the species' habitat, compressing the fish into a thin layer above the dead seabeds, while the absence of saline inflows from the North Sea undermines reproduction. Leaner individuals, a heavy parasite burden (chiefly the seal-borne liver nematode Contracaecum osculatum) and scarce prey interact with continued bycatch pressure, leading the EU to halt directed fishing in 2019 on ICES advice. The cod has become a symbol of a disrupted ecological balance, closely monitored by HELCOM and ICES.",
+        "general": "Cod was once the Baltic's great predator, but the eastern stock has collapsed and the fish are now smaller and leaner than before. Oxygen-starved bottom waters shrink its living space, and without inflows of salty, oxygen-rich water from the North Sea it struggles to spawn. The EU stopped targeted cod fishing in 2019.",
+        "child": "Cod used to be the biggest hunter in the Baltic Sea, but now there are hardly any big ones left. They have grown small and thin and can barely swim down to the bottom, because there is no oxygen there.",
+        "preschool": "Hi! I am the cod, a tired old hunting fish. We used to be big and there were lots of us, but now we are few and small — so I need your help to feel better."
+      }
+    },
+    "fi": {
+      "name": "Turska",
+      "role": "Väsynyt vanha petokala",
+      "status": "Kanta on romahtanut",
+      "fact": "EU lopetti turskan kohdennetun kalastuksen itäisellä Itämerellä vuonna 2019.",
+      "levels": {
+        "academic": "Turska (Gadus morhua) oli pitkään Itämeren valtapeto, mutta itäinen kanta on käynyt läpi regiimimuutoksen ja romahtanut. Rehevöityminen aiheuttaa laajaa hapettomuutta, joka kutistaa lajin elinympäristöä ja ahtaa kalat kapeaan kerrokseen kuolleiden pohjien yläpuolelle, samalla kun Pohjanmereltä tulevien suolaisten vesien sisäänvirtausten puute heikentää lisääntymistä. Laihtuneet yksilöt, runsas loiskuormitus (etenkin hylkeiden levittämä maksanematodi Contracaecum osculatum) sekä saaliskalojen vähyys yhdistyvät jatkuvaan sivusaaliin paineeseen, ja EU lopetti kohdennetun kalastuksen vuonna 2019 ICESin suosituksesta. Turskasta on tullut Itämeren järkkyneen tasapainon symboli, jota HELCOM ja ICES seuraavat tarkasti.",
+        "general": "Turska oli aikoinaan Itämeren suuri petokala, mutta itäinen kanta on romahtanut, ja kalat ovat nykyään pienempiä ja laihempia kuin ennen. Pohjien hapettomuus kutistaa sen elintilaa, eikä se pysty kunnolla kutemaan ilman Pohjanmereltä tulevaa suolaista, happirikasta vettä. EU lopetti turskan kohdennetun kalastuksen vuonna 2019.",
+        "child": "Ennen turska oli Itämeren suurin saalistaja, mutta nyt isoja turskia ei juuri ole jäljellä. Ne ovat käyneet pieniksi ja laihoiksi eivätkä uskalla uida pohjaan asti, koska siellä ei ole happea.",
+        "preschool": "Hei! Minä olen turska, väsynyt vanha petokala. Ennen meitä oli paljon ja olimme isoja, mutta nyt meitä on vähän ja olemme pieniä – tarvitsen siis apuasi voidakseni paremmin."
+      }
+    },
+    "de": {
+      "name": "Dorsch",
+      "role": "Der müde alte Raubfisch",
+      "status": "Bestand ist zusammengebrochen",
+      "fact": "Die EU stoppte 2019 die gezielte Dorschfischerei in der östlichen Ostsee.",
+      "levels": {
+        "academic": "Der Dorsch (Gadus morhua) war lange der dominierende Raubfisch der Ostsee, doch der östliche Bestand hat einen ökologischen Regimewechsel durchlaufen und ist zusammengebrochen. Die Überdüngung führt zu großflächiger Sauerstoffarmut, die den Lebensraum der Art verkleinert und die Fische in eine schmale Schicht über den toten Böden zwängt, während das Ausbleiben salzreicher Einströme aus der Nordsee die Fortpflanzung beeinträchtigt. Magerere Tiere, eine hohe Parasitenlast (vor allem der von Robben übertragene Leberparasit Contracaecum osculatum) und Beutemangel wirken mit dem anhaltenden Beifangdruck zusammen, weshalb die EU 2019 auf Empfehlung des ICES die gezielte Fischerei einstellte. Der Dorsch ist zum Symbol eines gestörten ökologischen Gleichgewichts geworden, das HELCOM und ICES genau beobachten.",
+        "general": "Der Dorsch war einst der große Raubfisch der Ostsee, doch der östliche Bestand ist zusammengebrochen, und die Fische sind heute kleiner und magerer als früher. Der Sauerstoffmangel am Grund verkleinert seinen Lebensraum, und ohne salzreiches, sauerstoffreiches Wasser aus der Nordsee kann er kaum laichen. Die EU stoppte 2019 die gezielte Dorschfischerei.",
+        "child": "Früher war der Dorsch der größte Jäger der Ostsee, aber jetzt gibt es kaum noch große Dorsche. Sie sind klein und mager geworden und trauen sich kaum bis zum Grund, weil es dort keinen Sauerstoff gibt.",
+        "preschool": "Hallo! Ich bin der Dorsch, ein müder alter Jägerfisch. Früher waren wir viele und groß, aber jetzt sind wir nur noch wenige und klein – darum brauche ich deine Hilfe, damit es mir besser geht."
+      }
+    }
+  },
+  "depth": 86,
+  "airBreather": false,
+  "voice": "An old, weary voice — deep, gravelly and slow, like a retired sea-captain who has seen better days. Low pitch with a rough, smoky rasp and long, sighing pauses. Resigned and a little melancholy, but carrying faded authority. Speaks unhurried, every word heavy, as if tired right down to the bone.",
+  "voiceId": "POwcCwtX4FpJ0KBsh6Sc",
+  "kbId": "2HMMQMz7UJNnMuWLHZCo",
+  "agentId": "agent_2001kw7xfcybfzfbxxrg9dtjxg7b"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "storspigg",
+  "latin": "Gasterosteus aculeatus",
+  "i18n": {
+    "sv": {
+      "name": "Storspigg",
+      "role": "Den lilla tuffingen som blivit för många",
+      "status": "Ökar kraftigt",
+      "fact": "Storspiggen har blivit så talrik längs kusten att forskarna kallar fenomenet för spiggvågen.",
+      "levels": {
+        "academic": "Storspiggen har genomgått en explosionsartad populationsökning i Östersjön, ett förlopp som kallats spiggvågen och som gynnas av övergödning och kraftigt decimerade bestånd av stora rovfiskar. Genom intensiv predation på rom och yngel av abborre och gädda hämmar arten rovfiskrekryteringen, vilket skapar en självförstärkande återkoppling och ett regimskifte i kustekosystemet. Mekanismen samspelar med syrebrist (hypoxi) i utsjön och med fiske- och bifångsttryck på de stora rovfiskarna. Övervakning och förvaltningsråd från HELCOM och ICES pekar på behovet av att återställa rovfiskbestånden för att bryta cirkeln.",
+        "general": "Storspiggen är en liten taggig fisk som plötsligt blivit oerhört talrik längs Östersjökusten. Den äter upp rommen och ynglen av abborre och gädda, så att rovfiskarna inte hinner växa till - och då blir det ännu mer spigg. Det är en ond cirkel som kan välta balansen i hela kustekosystemet.",
+        "child": "Storspiggen är en pytteliten fisk med vassa taggar, men den har blivit jättemånga. Den äter upp barnen till gädda och abborre, så att de stora fiskarna inte kan bli fler - och det rubbar hela havet.",
+        "preschool": "Hej! Jag är storspiggen, en liten fisk med vassa taggar. Nu har vi blivit jättemånga, och då blir det knepigt för de stora fiskarna - men taggarna skyddar mig."
+      }
+    },
+    "en": {
+      "name": "Three-spined stickleback",
+      "role": "The little tough guy who became too many",
+      "status": "Rapidly increasing",
+      "fact": "Sticklebacks have become so abundant along the coast that scientists call the surge 'the stickleback wave'.",
+      "levels": {
+        "academic": "The three-spined stickleback has undergone an explosive population increase in the Baltic Sea - the so-called stickleback wave - favoured by eutrophication and severely depleted stocks of large predatory fish such as perch and pike. Through intense predation on the eggs and larvae of these predators, the stickleback suppresses their recruitment, generating a self-reinforcing feedback loop and a regime shift in the coastal ecosystem. This mechanism interacts with offshore hypoxia and with fishing and bycatch pressure on the large predators. Monitoring and management advice from HELCOM and ICES emphasise restoring predatory fish stocks to break the cycle.",
+        "general": "The three-spined stickleback is a tiny spiny fish that has suddenly become incredibly abundant along the Baltic coast. It eats the eggs and young of perch and pike, so the predator fish can't grow in numbers - which means even more sticklebacks. It's a vicious circle that can tip the balance of the whole coastal ecosystem.",
+        "child": "The stickleback is a tiny fish with sharp spines, but there are huge numbers of them now. They eat the babies of pike and perch, so the big fish can't grow up - and that throws the whole sea off balance.",
+        "preschool": "Hi! I'm the stickleback, a tiny fish with sharp little spines. There are so many of us now that it's tricky for the big fish - but my spines keep me safe."
+      }
+    },
+    "fi": {
+      "name": "Kolmipiikki",
+      "role": "Pieni kovis, jota on tullut liikaa",
+      "status": "Runsastuu voimakkaasti",
+      "fact": "Kolmipiikkiä on rannikolla niin paljon, että tutkijat puhuvat piikkikala-aallosta.",
+      "levels": {
+        "academic": "Kolmipiikin kanta on kasvanut räjähdysmäisesti Itämerellä - ilmiötä on kutsuttu piikkikala-aalloksi - ja sitä suosivat rehevöityminen sekä suurten petokalojen, kuten ahvenen ja hauen, voimakkaasti heikentyneet kannat. Saalistamalla tehokkaasti näiden petokalojen mätiä ja poikasia kolmipiikki estää niiden lisääntymisen, mikä synnyttää itseään vahvistavan takaisinkytkennän ja ekosysteemin regiimimuutoksen rannikolla. Mekanismi kytkeytyy ulapan happikatoon (hypoksiaan) sekä petokaloihin kohdistuvaan kalastus- ja sivusaalispaineeseen. HELCOMin ja ICESin seuranta ja hoitosuositukset korostavat petokalakantojen elvyttämistä kierteen katkaisemiseksi.",
+        "general": "Kolmipiikki on pieni piikikäs kala, jota on yhtäkkiä ilmaantunut valtavat määrät Itämeren rannikolle. Se syö ahvenen ja hauen mätiä ja poikasia, joten petokalat eivät pääse runsastumaan - ja silloin piikkikaloja tulee entistä enemmän. Tämä noidankehä voi kaataa koko rannikon ekosysteemin tasapainon.",
+        "child": "Kolmipiikki on pikkuruinen kala, jolla on terävät piikit, mutta niitä on nyt valtavan paljon. Se syö hauen ja ahvenen poikasia, joten isot kalat eivät pääse kasvamaan - ja se sekoittaa koko meren tasapainon.",
+        "preschool": "Hei! Minä olen kolmipiikki, pieni kala, jolla on terävät piikit. Meitä on nyt tosi paljon, ja siksi isoilla kaloilla on vaikeaa - mutta piikit suojaavat minua."
+      }
+    },
+    "de": {
+      "name": "Dreistachliger Stichling",
+      "role": "Der kleine Draufgänger, der zu viele geworden ist",
+      "status": "Stark zunehmend",
+      "fact": "Stichlinge sind an der Küste so zahlreich geworden, dass Forscher von der Stichlingswelle sprechen.",
+      "levels": {
+        "academic": "Der Dreistachlige Stichling hat in der Ostsee eine explosionsartige Bestandszunahme erlebt - die sogenannte Stichlingswelle -, begünstigt durch Eutrophierung und stark dezimierte Bestände großer Raubfische wie Barsch und Hecht. Durch intensive Prädation an Eiern und Larven dieser Raubfische unterdrückt der Stichling deren Nachwuchs und erzeugt so eine sich selbst verstärkende Rückkopplung sowie einen Regimewechsel im Küstenökosystem. Dieser Mechanismus wirkt mit der Sauerstoffarmut (Hypoxie) im Freiwasser und mit dem Fischerei- und Beifangdruck auf die großen Raubfische zusammen. Monitoring und Managementempfehlungen von HELCOM und ICES betonen die Wiederherstellung der Raubfischbestände, um den Kreislauf zu durchbrechen.",
+        "general": "Der Dreistachlige Stichling ist ein kleiner stacheliger Fisch, der plötzlich in riesigen Mengen an der Ostseeküste aufgetaucht ist. Er frisst die Eier und Jungfische von Barsch und Hecht, sodass sich die Raubfische nicht vermehren können - und dann gibt es noch mehr Stichlinge. Ein Teufelskreis, der das Gleichgewicht der gesamten Küste kippen kann.",
+        "child": "Der Stichling ist ein winziger Fisch mit scharfen Stacheln, aber jetzt gibt es unglaublich viele davon. Er frisst die Babys von Hecht und Barsch, sodass die großen Fische nicht groß werden können - und das bringt das ganze Meer aus dem Gleichgewicht.",
+        "preschool": "Hallo! Ich bin der Stichling, ein winziger Fisch mit scharfen Stacheln. Uns gibt es jetzt ganz viele, und darum haben es die großen Fische schwer - aber meine Stacheln beschützen mich."
+      }
+    }
+  },
+  "depth": 10,
+  "airBreather": false,
+  "voice": "A small but cocky voice — wiry, brash and streetwise, mid-pitched with a punchy, swaggering edge. Quick, confident delivery with attitude and bravado, like a scrappy underdog who knows he's winning now. Tough, cheeky and totally unbothered, talking big despite his tiny, spiny size.",
+  "voiceId": "ILcIjE4JY6Ppd9KWAjtZ",
+  "kbId": "LAfwUID0eKHsnab0iTo7",
+  "agentId": "agent_7701kw7xbd2newjvbdwgwh6gyprf"
+}

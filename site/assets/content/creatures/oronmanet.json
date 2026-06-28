@@ -1,0 +1,60 @@
+{
+  "id": "oronmanet",
+  "latin": "Aurelia aurita",
+  "i18n": {
+    "sv": {
+      "name": "Öronmanet",
+      "role": "Den genomskinliga geléfiguren",
+      "status": "Kan gynnas av varmare hav",
+      "fact": "Östersjöns vanligaste manet — och nästan helt genomskinlig.",
+      "levels": {
+        "academic": "Öronmaneten (Aurelia aurita) är Östersjöns vanligaste manet och växlar i sin livscykel mellan frisimmande medusa och fastsittande polyp. Den är nästan genomskinlig och känns igen på sina fyra ringformade könsorgan; födan består av djurplankton samt fiskyngel och rom, vilket gör att den både konkurrerar med och predaterar tidiga fiskstadier. Tidvis bildas omfattande ansamlingar (bloom), och gelékroppar antas kunna gynnas när havet värms och näringsväven rubbas av övergödning, hypoxi och fisketryck. Arten betraktas därför som en indikator på pågående regimskiften, något som följs inom HELCOM:s och ICES miljöövervakning.",
+        "general": "Öronmaneten är den vanligaste maneten i Östersjön, nästan genomskinlig så när som på de fyra ringformade könsorgan som lyser igenom kroppen. Den äter djurplankton men också fiskyngel och rom, och kan tidvis dyka upp i enorma svärmar. När havet blir varmare och näringsväven kommer i obalans, tror forskarna att geléartade djur som den kan få det allt lättare.",
+        "child": "Öronmaneten är nästan helt genomskinlig, så man kan se rakt igenom den. Den äter pyttesmå djur i vattnet, men också fiskyngel och fiskägg — och ibland blir maneterna jättemånga på samma gång.",
+        "preschool": "Hej! Jag är öronmaneten och jag är nästan osynlig i vattnet. När havet blir varmt blir vi jättemånga — då måste de små fiskarna simma undan oss."
+      }
+    },
+    "en": {
+      "name": "Moon jellyfish",
+      "role": "The see-through jelly character",
+      "status": "May thrive in warming seas",
+      "fact": "The most common jellyfish in the Baltic Sea — and almost completely transparent.",
+      "levels": {
+        "academic": "The moon jellyfish (Aurelia aurita) is the Baltic Sea's most common jellyfish, alternating in its life cycle between a free-swimming medusa and a bottom-attached polyp. Nearly transparent, it is recognised by its four ring-shaped gonads; it feeds on zooplankton as well as fish larvae and eggs, placing it in both competition with and predation on early fish stages. Mass aggregations (blooms) form periodically, and gelatinous organisms are thought to gain ground as the sea warms and the food web is disrupted by eutrophication, hypoxia and fishing pressure. The species is therefore treated as an indicator of ongoing regime shifts, monitored within the HELCOM and ICES frameworks.",
+        "general": "The moon jellyfish is the most common jellyfish in the Baltic, almost see-through apart from the four ring-shaped gonads that show through its body. It eats zooplankton but also fish larvae and eggs, and can sometimes appear in vast swarms. As the sea warms and the food web falls out of balance, scientists expect gelatinous animals like this one to do increasingly well.",
+        "child": "The moon jellyfish is almost completely see-through, so you can look right through it. It eats tiny animals in the water, but also baby fish and fish eggs — and sometimes huge numbers of jellyfish turn up all at once.",
+        "preschool": "Hi! I'm the moon jellyfish, and in the water I'm almost invisible. When the sea gets warm there are lots and lots of us — and then the little fish have to swim away from me."
+      }
+    },
+    "fi": {
+      "name": "Korvameduusa",
+      "role": "Läpinäkyvä hyytelöhahmo",
+      "status": "Saattaa hyötyä lämpenevästä merestä",
+      "fact": "Itämeren yleisin meduusa — ja lähes täysin läpinäkyvä.",
+      "levels": {
+        "academic": "Korvameduusa (Aurelia aurita) on Itämeren yleisin meduusa, ja sen elinkierto vaihtelee vapaasti uivan meduusan ja pohjaan kiinnittyneen polyypin välillä. Se on lähes läpinäkyvä, ja sen tunnistaa neljästä rengasmaisesta sukurauhasesta; se syö eläinplanktonia sekä kalanpoikasia ja mätiä, mikä asettaa sen sekä kilpailuun että saalistussuhteeseen kalojen varhaisvaiheiden kanssa. Ajoittain muodostuu laajoja parvia (massaesiintymiä), ja hyytelömäisten eläinten arvellaan hyötyvän, kun meri lämpenee ja ravintoverkko järkkyy rehevöitymisen, vähähappisuuden ja kalastuspaineen seurauksena. Lajia pidetäänkin merkkinä käynnissä olevista ekosysteemin muutoksista, joita seurataan HELCOMin ja ICESin puitteissa.",
+        "general": "Korvameduusa on Itämeren yleisin meduusa, lähes läpinäkyvä lukuun ottamatta neljää rengasmaista sukurauhasta, jotka kuultavat sen läpi. Se syö eläinplanktonia mutta myös kalanpoikasia ja mätiä, ja sitä voi ajoittain esiintyä valtavina parvina. Kun meri lämpenee ja ravintoverkko menee epätasapainoon, tutkijat uskovat hyytelömäisten eläinten kaltaisten lajien menestyvän yhä paremmin.",
+        "child": "Korvameduusa on lähes täysin läpinäkyvä, joten sen läpi voi nähdä. Se syö pieniä eläimiä vedessä, mutta myös kalanpoikasia ja mätiä — ja joskus meduusoita ilmestyy valtavan paljon yhtä aikaa.",
+        "preschool": "Hei! Olen korvameduusa, ja vedessä olen melkein näkymätön. Kun meri lämpenee, meitä on tosi paljon — silloin pienten kalojen täytyy uida pakoon."
+      }
+    },
+    "de": {
+      "name": "Ohrenqualle",
+      "role": "Die durchsichtige Geleefigur",
+      "status": "Könnte von wärmeren Meeren profitieren",
+      "fact": "Die häufigste Qualle der Ostsee — und fast völlig durchsichtig.",
+      "levels": {
+        "academic": "Die Ohrenqualle (Aurelia aurita) ist die häufigste Qualle der Ostsee und wechselt in ihrem Lebenszyklus zwischen frei schwimmender Meduse und festsitzendem Polypen. Sie ist nahezu durchsichtig und an ihren vier ringförmigen Keimdrüsen (Gonaden) zu erkennen; sie frisst Zooplankton sowie Fischlarven und -eier und steht damit in Konkurrenz zu frühen Fischstadien, die sie zugleich erbeutet. Zeitweise bilden sich ausgedehnte Massenansammlungen (Blooms), und gallertartige Organismen dürften begünstigt werden, wenn sich das Meer erwärmt und das Nahrungsnetz durch Eutrophierung, Sauerstoffmangel (Hypoxie) und Fischereidruck gestört wird. Die Art gilt daher als Indikator für laufende Regimewechsel, die im Rahmen von HELCOM und ICES überwacht werden.",
+        "general": "Die Ohrenqualle ist die häufigste Qualle der Ostsee, fast völlig durchsichtig bis auf die vier ringförmigen Keimdrüsen, die durch ihren Körper schimmern. Sie frisst Zooplankton, aber auch Fischlarven und -eier und kann zeitweise in riesigen Schwärmen auftreten. Wenn sich das Meer erwärmt und das Nahrungsnetz aus dem Gleichgewicht gerät, dürften gallertartige Tiere wie sie es zunehmend leichter haben.",
+        "child": "Die Ohrenqualle ist fast völlig durchsichtig, man kann mitten durch sie hindurchsehen. Sie frisst winzige Tiere im Wasser, aber auch Fischbabys und Fischeier — und manchmal tauchen ganz viele Quallen auf einmal auf.",
+        "preschool": "Hallo! Ich bin die Ohrenqualle, und im Wasser bin ich fast unsichtbar. Wenn das Meer warm wird, sind wir ganz viele — dann müssen die kleinen Fische vor mir wegschwimmen."
+      }
+    }
+  },
+  "depth": 20,
+  "airBreather": false,
+  "voice": "A dreamy, ethereal voice — airy, soft and whispery, seeming to drift and float. Light, breathy and otherworldly, with a slow, weightless flow and a faint echo. Gentle and serene, almost translucent in tone, as if speaking from a half-dream. Hypnotic, delicate and quietly mysterious.",
+  "voiceId": "Hl3m3ksdyiH4OzaKsPPJ",
+  "kbId": "aWWSP0Dmt1uY1IA37J3S",
+  "agentId": "agent_4101kw7xbx1yfews60z3cj5ek7pc"
+}

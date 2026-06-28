@@ -1,0 +1,78 @@
+{
+  "sv": {
+    "intro": {
+      "academic": "Välkommen till ytan av Östersjön. Detta innanhav är ett av världens största brackvattenhav, där sötvatten från älvar möter saltvatten från Nordsjön. Den känsliga salthaltsgradienten, det långsamma vattenutbytet och decennier av övergödning gör ekosystemet ovanligt sårbart. Dyk ner genom vattenlagren och utforska hur ljus, syre och liv förändras mot djupet.",
+      "general": "Här uppe vid ytan glittrar Östersjön i solen, en liten fiskebåt guppar förbi och allt ser lugnt ut. Men under den blanka ytan döljer sig ett av världens känsligaste hav. Följ med ner genom det allt mörkare vattnet och möt livet som lever här.",
+      "child": "Hej och välkommen till Östersjön! Här uppe skiner solen, molnen seglar förbi och en liten fiskebåt gungar på vågorna. Men visste du att det finns en hel värld under ytan? Ta ett djupt andetag (på låtsas) och dyk med ner i det blå!",
+      "preschool": "Hej! Vill du dyka med ner i havet? Här uppe skiner solen och en liten båt gungar. Nere i vattnet bor många djur. Kom, så simmar vi ner tillsammans!"
+    },
+    "outro": {
+      "academic": "Östersjöns tillstånd är allvarligt, men inte hopplöst. Minskad näringsbelastning, hållbart fiske, skydd av känsliga livsmiljöer och begränsning av miljögifter kan stegvis återställa balansen. Återhämtningen tar tid, men varje åtgärd – från reningsverk till politiska överenskommelser och egna vardagsval – bidrar till ett friskare hav.",
+      "general": "Nu är vi längst ner, i det mörkaste och mest syrefattiga vattnet. Östersjön mår inte bra, men utvecklingen går att vända. Vi kan välja miljömärkt fisk, minska övergödningen, rösta för havet och låta bli att skräpa ner. Tillsammans kan vi ge havet en chans att läka.",
+      "child": "Nu är vi längst ner på djupet! Här är det mörkt och tyst. Östersjön behöver vår hjälp. Du kan plocka skräp på stranden, äta fisk som är bra för havet och berätta för andra hur fint men känsligt havet är. Små saker hjälper jättemycket!",
+      "preschool": "Nu är vi längst ner i havet! Här är det mörkt och mysigt. Havet behöver hjälp av oss. Du kan plocka skräp och vara snäll mot djuren. Tack för att du dök med ner!"
+    },
+    "about": "Den här sajten tar dig med på en resa från Östersjöns soliga yta ända ner till dess mörka djup. Texterna är skrivna för att väcka nyfikenhet i alla åldrar, och fakta bygger på källor som HELCOM, ICES och svensk havsmiljöforskning.",
+    "deadzone": {
+      "title": "Den döda zonen",
+      "text": "Under språngskiktet, på runt 80 meters djup, tar syret slut. Härifrån och ända ner till Landsortsdjupets 459 meter kan nästan inget liv finnas. Övergödningen har gjort Östersjöns djupbottnar till en av världens största syrefria zoner — en tyst, mörk öken."
+    }
+  },
+  "en": {
+    "intro": {
+      "academic": "Welcome to the surface of the Baltic Sea, one of the world's largest bodies of brackish water, where freshwater from rivers mingles with saltwater from the North Sea. Its delicate salinity gradient, slow water exchange and decades of nutrient loading make this ecosystem exceptionally vulnerable. Descend through the layers and discover how light, oxygen and life change as the water deepens.",
+      "general": "Up here at the surface, the Baltic Sea glitters in the sun, a little fishing boat drifts by and everything looks calm. But beneath the bright surface lies one of the most fragile seas on Earth. Come with us down through the darkening water and meet the life that lives here.",
+      "child": "Hi and welcome to the Baltic Sea! Up here the sun is shining, clouds float by and a little fishing boat rocks on the waves. But did you know there's a whole world beneath the surface? Take a deep (pretend) breath and dive down into the blue with us!",
+      "preschool": "Hi! Do you want to dive into the sea with me? Up here the sun is shining and a little boat is bobbing on the water. Down below live lots of animals. Come on, let's swim down together!"
+    },
+    "outro": {
+      "academic": "The Baltic Sea is in a serious state, but its situation is far from hopeless. Reducing nutrient inputs, fishing sustainably, protecting sensitive habitats and curbing pollutants can gradually restore the balance. Recovery takes time, yet every measure — from wastewater treatment to political agreements and everyday choices — helps build a healthier sea.",
+      "general": "Now we're at the very bottom, in the darkest, most oxygen-poor water. The Baltic Sea is struggling, but the trend can be reversed. We can choose eco-labelled fish, cut nutrient pollution, vote for the sea and stop littering. Together we can give this sea a chance to heal.",
+      "child": "Now we're all the way down in the deep! It's dark and quiet here. The Baltic Sea needs our help. You can pick up litter on the beach, eat fish that's good for the sea, and tell others how beautiful but fragile the sea is. Small things help a lot!",
+      "preschool": "Now we're at the very bottom of the sea! It's dark and cosy down here. The sea needs our help. You can pick up litter and be kind to the animals. Thank you for diving down with us!"
+    },
+    "about": "This site takes you on a journey from the sunlit surface of the Baltic Sea down to its dark depths. The texts are written to spark curiosity at every age, and the facts draw on sources such as HELCOM, ICES and Swedish marine environmental research.",
+    "deadzone": {
+      "title": "The dead zone",
+      "text": "Below the halocline, at around 80 metres, the oxygen runs out. From here all the way down to the 459-metre Landsort Deep, almost nothing can live. Eutrophication has turned the Baltic's deep seabed into one of the world's largest oxygen-free zones — a silent, dark desert."
+    }
+  },
+  "fi": {
+    "intro": {
+      "academic": "Tervetuloa Itämeren pinnalle. Tämä sisämeri on yksi maailman suurimmista murtovesialtaista, jossa jokien makea vesi sekoittuu Pohjanmereltä tulevaan suolaiseen veteen. Herkkä suolaisuusgradientti, hidas vedenvaihto ja vuosikymmenten rehevöityminen tekevät ekosysteemistä erityisen haavoittuvan. Sukella vesikerrosten läpi ja tutki, miten valo, happi ja elämä muuttuvat syvyyttä kohti.",
+      "general": "Täällä pinnalla Itämeri kimaltelee auringossa, pieni kalastusvene keinuu ohi ja kaikki näyttää rauhalliselta. Mutta kirkkaan pinnan alla piilee yksi maailman herkimmistä meristä. Tule mukaan alas yhä tummempaan veteen ja tapaa täällä elävät olennot.",
+      "child": "Hei ja tervetuloa Itämerelle! Täällä ylhäällä paistaa aurinko, pilvet purjehtivat ohi ja pieni kalastusvene keinuu aalloilla. Mutta tiesitkö, että pinnan alla on kokonainen maailma? Vedä syvään henkeä (ihan leikisti) ja sukella kanssamme siniseen!",
+      "preschool": "Hei! Haluatko sukeltaa mereen kanssani? Täällä ylhäällä paistaa aurinko ja pieni vene keinuu. Veden alla asuu paljon eläimiä. Tule, uidaan yhdessä alas!"
+    },
+    "outro": {
+      "academic": "Itämeren tila on vakava, mutta ei toivoton. Ravinnekuormituksen vähentäminen, kestävä kalastus, herkkien elinympäristöjen suojelu ja ympäristömyrkkyjen rajoittaminen voivat vähitellen palauttaa tasapainon. Toipuminen vie aikaa, mutta jokainen toimi – jätevedenpuhdistamoista poliittisiin sopimuksiin ja arjen valintoihin – rakentaa terveempää merta.",
+      "general": "Nyt olemme aivan pohjalla, pimeimmässä ja vähähappisimmassa vedessä. Itämeri voi huonosti, mutta suunta on käännettävissä. Voimme valita ympäristömerkittyä kalaa, vähentää rehevöitymistä, äänestää meren puolesta ja jättää roskaamatta. Yhdessä voimme antaa merelle mahdollisuuden parantua.",
+      "child": "Nyt olemme aivan syvällä! Täällä on pimeää ja hiljaista. Itämeri tarvitsee apuamme. Voit kerätä roskia rannalta, syödä merelle hyvää kalaa ja kertoa muille, miten kaunis mutta herkkä meri on. Pienet teot auttavat tosi paljon!",
+      "preschool": "Nyt olemme aivan meren pohjalla! Täällä on pimeää ja kodikasta. Meri tarvitsee meidän apuamme. Voit kerätä roskia ja olla kiltti eläimille. Kiitos, että sukelsit mukaan!"
+    },
+    "about": "Tämä sivusto vie sinut matkalle Itämeren aurinkoiselta pinnalta sen pimeisiin syvyyksiin. Tekstit on kirjoitettu herättämään uteliaisuutta kaikenikäisissä, ja tiedot perustuvat lähteisiin kuten HELCOM, ICES ja ruotsalainen meriympäristötutkimus.",
+    "deadzone": {
+      "title": "Kuollut vyöhyke",
+      "text": "Harppauskerroksen alapuolella, noin 80 metrin syvyydessä, happi loppuu. Täältä aina Landsortin syvänteen 459 metriin asti ei juuri mikään voi elää. Rehevöityminen on tehnyt Itämeren syvänteistä yhden maailman suurimmista hapettomista alueista — hiljaisen, pimeän aavikon."
+    }
+  },
+  "de": {
+    "intro": {
+      "academic": "Willkommen an der Oberfläche der Ostsee. Dieses Binnenmeer ist eines der größten Brackwassermeere der Welt, in dem Süßwasser aus Flüssen auf Salzwasser aus der Nordsee trifft. Der empfindliche Salzgehaltsgradient, der langsame Wasseraustausch und Jahrzehnte der Überdüngung machen dieses Ökosystem besonders verletzlich. Tauchen Sie durch die Wasserschichten und entdecken Sie, wie sich Licht, Sauerstoff und Leben mit zunehmender Tiefe verändern.",
+      "general": "Hier oben an der Oberfläche glitzert die Ostsee in der Sonne, ein kleines Fischerboot schaukelt vorbei und alles wirkt ruhig. Doch unter der glänzenden Oberfläche verbirgt sich eines der empfindlichsten Meere der Welt. Komm mit hinunter durch das immer dunklere Wasser und begegne dem Leben, das hier zu Hause ist.",
+      "child": "Hallo und willkommen an der Ostsee! Hier oben scheint die Sonne, Wolken ziehen vorbei und ein kleines Fischerboot schaukelt auf den Wellen. Aber wusstest du, dass es unter der Oberfläche eine ganze Welt gibt? Hol (in Gedanken) tief Luft und tauch mit uns hinab ins Blaue!",
+      "preschool": "Hallo! Möchtest du mit mir ins Meer tauchen? Hier oben scheint die Sonne und ein kleines Boot schaukelt. Unten im Wasser wohnen viele Tiere. Komm, wir schwimmen zusammen nach unten!"
+    },
+    "outro": {
+      "academic": "Der Zustand der Ostsee ist ernst, aber nicht hoffnungslos. Geringere Nährstoffeinträge, nachhaltige Fischerei, der Schutz empfindlicher Lebensräume und die Begrenzung von Schadstoffen können das Gleichgewicht allmählich wiederherstellen. Die Erholung braucht Zeit, doch jede Maßnahme – von Kläranlagen über politische Vereinbarungen bis zu den eigenen Alltagsentscheidungen – trägt zu einem gesünderen Meer bei.",
+      "general": "Jetzt sind wir ganz unten, im dunkelsten und sauerstoffärmsten Wasser. Der Ostsee geht es nicht gut, aber die Entwicklung lässt sich umkehren. Wir können umweltzertifizierten Fisch wählen, die Überdüngung verringern, für das Meer stimmen und keinen Müll hinterlassen. Gemeinsam können wir diesem Meer eine Chance zur Erholung geben.",
+      "child": "Jetzt sind wir ganz unten in der Tiefe! Hier ist es dunkel und still. Die Ostsee braucht unsere Hilfe. Du kannst am Strand Müll aufsammeln, Fisch essen, der gut für das Meer ist, und anderen erzählen, wie schön und zugleich empfindlich das Meer ist. Kleine Dinge helfen sehr viel!",
+      "preschool": "Jetzt sind wir ganz unten im Meer! Hier ist es dunkel und gemütlich. Das Meer braucht unsere Hilfe. Du kannst Müll aufsammeln und nett zu den Tieren sein. Danke, dass du mit uns getaucht bist!"
+    },
+    "about": "Diese Seite nimmt dich mit auf eine Reise von der sonnigen Oberfläche der Ostsee bis hinab in ihre dunkle Tiefe. Die Texte sollen in jedem Alter Neugier wecken, und die Fakten stützen sich auf Quellen wie HELCOM, ICES und die schwedische Meeresumweltforschung.",
+    "deadzone": {
+      "title": "Die tote Zone",
+      "text": "Unterhalb der Sprungschicht, in etwa 80 Metern Tiefe, geht der Sauerstoff aus. Von hier bis hinunter zum 459 Meter tiefen Landsorttief kann fast nichts mehr leben. Die Überdüngung hat die tiefen Böden der Ostsee zu einer der größten sauerstofffreien Zonen der Welt gemacht — einer stillen, dunklen Wüste."
+    }
+  }
+}

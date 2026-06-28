@@ -1,0 +1,60 @@
+{
+  "id": "grasal",
+  "latin": "Halichoerus grypus",
+  "i18n": {
+    "sv": {
+      "name": "Gråsäl",
+      "role": "Den store fiskjägaren",
+      "status": "Tillbaka från utrotning",
+      "fact": "Från nära utrotning till tiotusentals individer i Östersjön.",
+      "levels": {
+        "academic": "Gråsälen är ett av Östersjöns största topprovdjur och jagar fisk i flera bestånd. Under 1900-talet kollapsade populationen genom jakt och fettlösliga miljögifter som PCB och DDT, vilka biomagnifierades uppåt i näringskedjan och gav reproduktionsstörningar och livmoderskador hos honorna. Tack vare jaktförbud och minskade utsläpp har beståndet återhämtat sig till tiotusentals djur – en av Östersjöns tydligaste miljöframgångar, som följs i HELCOM:s indikatorer. Kvar står konflikten med kustfisket, bifångst i nät samt hälsoproblem som tarmsår, kopplade till de gamla gifterna som arten fortfarande bär i sitt späcklager.",
+        "general": "Gråsälen är Östersjöns store fiskjägare och sitter högst upp i näringskedjan. På 1900-talet var den nära att utrotas av jakt och miljögifter som PCB, men efter jaktförbud har den kommit tillbaka och räknas nu i tiotusental. Samtidigt skaver den mot kustfisket, fastnar i nät och bär fortfarande på gamla gifter i sitt späck.",
+        "child": "Gråsälen är en stor jägare som äter fisk och dyker djupt ner i Östersjön. För länge sedan fanns det nästan inga sälar kvar, men nu finns det många igen – även om de fortfarande har gamla gifter i kroppen.",
+        "preschool": "Hej! Jag är gråsälen och jag är jätteduktig på att fånga fisk. Vi var nästan borta förut, men nu är vi många igen – och det känns skönt!"
+      }
+    },
+    "en": {
+      "name": "Grey seal",
+      "role": "The great fish hunter",
+      "status": "Back from the brink",
+      "fact": "From near extinction to tens of thousands in the Baltic Sea.",
+      "levels": {
+        "academic": "The grey seal is one of the Baltic Sea's largest apex predators, feeding on fish across several stocks. During the twentieth century its population collapsed under hunting pressure and fat-soluble pollutants such as PCBs and DDT, which biomagnified up the food web and caused reproductive failure and uterine lesions in females. Following hunting bans and reduced emissions the population has rebounded to tens of thousands of animals – one of the Baltic's clearest conservation successes, tracked through HELCOM indicators. What remains is the conflict with coastal fisheries, bycatch in nets, and health problems such as intestinal ulcers, linked to the legacy toxins the species still carries in its blubber.",
+        "general": "The grey seal is the Baltic's great fish hunter, sitting right at the top of the food chain. It was almost wiped out in the twentieth century by hunting and pollutants like PCBs, but after hunting bans it has recovered and now numbers in the tens of thousands. Even so, it clashes with coastal fishers, gets caught in nets, and still carries old toxins in its blubber.",
+        "child": "The grey seal is a big hunter that eats fish and dives deep down in the Baltic Sea. A long time ago there were almost none left, but now there are lots again – even though they still carry old poisons in their bodies.",
+        "preschool": "Hi! I'm the grey seal, and I'm really good at catching fish. We almost disappeared once, but now there are lots of us again – and that feels good!"
+      }
+    },
+    "fi": {
+      "name": "Harmaahylje",
+      "role": "Suuri kalansaalistaja",
+      "status": "Palannut sukupuuton partaalta",
+      "fact": "Lähes sukupuutosta kymmeniintuhansiin yksilöihin Itämerellä.",
+      "levels": {
+        "academic": "Harmaahylje on yksi Itämeren suurimmista huippupedoista, joka saalistaa kaloja useista kannoista. 1900-luvulla kanta romahti metsästyksen ja rasvaliukoisten ympäristömyrkkyjen, kuten PCB:n ja DDT:n, vuoksi; nämä rikastuivat ravintoverkossa ja aiheuttivat naaraille lisääntymishäiriöitä ja kohtuvaurioita. Metsästyskieltojen ja päästöjen vähenemisen ansiosta kanta on toipunut kymmeniintuhansiin yksilöihin – yksi Itämeren selkeimmistä ympäristönsuojelun menestystarinoista, jota seurataan HELCOMin indikaattoreilla. Haasteiksi jäävät ristiriita rannikkokalastuksen kanssa, sivusaaliiksi joutuminen verkkoihin sekä terveysongelmat, kuten suolistohaavaumat, jotka liittyvät hylkeiden rasvakerrokseen yhä varastoituneisiin vanhoihin myrkkyihin.",
+        "general": "Harmaahylje on Itämeren suuri kalastaja ravintoketjun huipulla. Se oli 1900-luvulla lähellä sukupuuttoa metsästyksen ja PCB:n kaltaisten myrkkyjen takia, mutta metsästyskieltojen jälkeen kanta on palannut ja lasketaan nyt kymmenissätuhansissa. Silti se aiheuttaa ongelmia rannikkokalastukselle, takertuu verkkoihin ja kantaa yhä vanhoja myrkkyjä rasvakerroksessaan.",
+        "child": "Harmaahylje on suuri saalistaja, joka syö kalaa ja sukeltaa syvälle Itämeressä. Kauan sitten hylkeitä oli jäljellä enää hyvin vähän, mutta nyt niitä on taas paljon – vaikka niillä on yhä vanhoja myrkkyjä kehossaan.",
+        "preschool": "Hei! Olen harmaahylje, ja osaan tosi hyvin napata kaloja. Ennen meitä oli tosi vähän, mutta nyt meitä on taas paljon – ja se tuntuu hyvältä!"
+      }
+    },
+    "de": {
+      "name": "Kegelrobbe",
+      "role": "Der große Fischjäger",
+      "status": "Dem Aussterben entronnen",
+      "fact": "Vom Rand des Aussterbens zu Zehntausenden in der Ostsee.",
+      "levels": {
+        "academic": "Die Kegelrobbe ist einer der größten Spitzenprädatoren der Ostsee und jagt Fische aus mehreren Beständen. Im 20. Jahrhundert brach die Population durch Bejagung und fettlösliche Umweltgifte wie PCB und DDT zusammen, die sich im Nahrungsnetz anreicherten und bei den Weibchen Fortpflanzungsstörungen sowie Gebärmutterschäden verursachten. Dank Jagdverboten und sinkender Schadstoffeinträge hat sich der Bestand auf Zehntausende Tiere erholt – einer der deutlichsten Naturschutzerfolge der Ostsee, dokumentiert in den Indikatoren von HELCOM. Bestehen bleiben der Konflikt mit der Küstenfischerei, der Beifang in Netzen sowie Gesundheitsprobleme wie Darmgeschwüre, die mit den alten Giften zusammenhängen, die das Tier noch immer in seinem Speck trägt.",
+        "general": "Die Kegelrobbe ist der große Fischjäger der Ostsee und steht an der Spitze der Nahrungskette. Im 20. Jahrhundert war sie durch Jagd und Gifte wie PCB fast ausgerottet, doch nach Jagdverboten ist sie zurückgekehrt und zählt heute Zehntausende Tiere. Trotzdem gerät sie in Konflikt mit der Küstenfischerei, verfängt sich in Netzen und trägt noch immer alte Gifte in ihrem Speck.",
+        "child": "Die Kegelrobbe ist ein großer Jäger, der Fische frisst und tief in der Ostsee taucht. Vor langer Zeit gab es fast keine mehr, doch heute gibt es wieder viele – auch wenn sie noch alte Gifte im Körper tragen.",
+        "preschool": "Hallo! Ich bin die Kegelrobbe und ich kann richtig gut Fische fangen. Früher gab es uns fast nicht mehr, aber jetzt sind wir wieder viele – und das fühlt sich schön an!"
+      }
+    }
+  },
+  "depth": 38,
+  "airBreather": true,
+  "voice": "A big, booming, hearty voice — deep, confident and jovial, full of robust good humour. Warm bass tones, relaxed and commanding, with a hint of a chuckle. Bold and self-assured, the loud, friendly giant of the group who has survived it all. Strong and lively, happily taking up plenty of space.",
+  "voiceId": "rQEj5LaRj31EXgNi7gwy",
+  "kbId": "fnjmAfpA0Iu6SPYMW6nt",
+  "agentId": "agent_4401kw7xcy7ee5srrmc8r4ngbg1c"
+}

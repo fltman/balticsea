@@ -1,0 +1,792 @@
+{
+  "order": [
+    "blastang",
+    "storspigg",
+    "oronmanet",
+    "blamussla",
+    "grasal",
+    "tumlare",
+    "stromming",
+    "skarpsill",
+    "flundra",
+    "torsk"
+  ],
+  "langs": [
+    "sv",
+    "en",
+    "fi",
+    "de"
+  ],
+  "levels": [
+    "academic",
+    "general",
+    "child",
+    "preschool"
+  ],
+  "ui": {
+    "sv": {
+      "title": "Under ytan",
+      "subtitle": "En resa från Östersjöns yta ner till det mörka djupet",
+      "scrollHint": "Scrolla för att dyka",
+      "levelTitle": "Läsnivå",
+      "levelAcademic": "Akademisk",
+      "levelGeneral": "Allmän",
+      "levelChild": "Barn",
+      "levelPreschool": "Förskola",
+      "langLabel": "Språk",
+      "statusLabel": "Status",
+      "latinLabel": "Latinskt namn",
+      "factLabel": "Visste du att",
+      "depthSurface": "Ytan",
+      "depthDeep": "Djupet",
+      "aboutTitle": "Om sajten",
+      "restart": "Upp till ytan",
+      "tapHint": "Tryck på en varelse",
+      "airBreatherNote": "Andas vid ytan – dyker djupare för att jaga",
+      "depthLabel": "Djup"
+    },
+    "en": {
+      "title": "Beneath the Surface",
+      "subtitle": "A journey from the Baltic Sea's surface down into the dark deep",
+      "scrollHint": "Scroll to dive",
+      "levelTitle": "Reading level",
+      "levelAcademic": "Academic",
+      "levelGeneral": "General",
+      "levelChild": "Kids",
+      "levelPreschool": "Preschool",
+      "langLabel": "Language",
+      "statusLabel": "Status",
+      "latinLabel": "Scientific name",
+      "factLabel": "Did you know",
+      "depthSurface": "Surface",
+      "depthDeep": "The deep",
+      "aboutTitle": "About this site",
+      "restart": "Back to the surface",
+      "tapHint": "Tap a creature",
+      "airBreatherNote": "Breathes at the surface – dives deeper to hunt",
+      "depthLabel": "Depth"
+    },
+    "fi": {
+      "title": "Pinnan alla",
+      "subtitle": "Matka Itämeren pinnalta alas pimeään syvyyteen",
+      "scrollHint": "Vieritä ja sukella",
+      "levelTitle": "Lukutaso",
+      "levelAcademic": "Akateeminen",
+      "levelGeneral": "Yleistajuinen",
+      "levelChild": "Lapset",
+      "levelPreschool": "Esikoulu",
+      "langLabel": "Kieli",
+      "statusLabel": "Tila",
+      "latinLabel": "Tieteellinen nimi",
+      "factLabel": "Tiesitkö, että",
+      "depthSurface": "Pinta",
+      "depthDeep": "Syvyys",
+      "aboutTitle": "Tietoa sivustosta",
+      "restart": "Takaisin pinnalle",
+      "tapHint": "Napauta olentoa",
+      "airBreatherNote": "Hengittää pinnalla – sukeltaa syvemmälle saalistamaan",
+      "depthLabel": "Syvyys"
+    },
+    "de": {
+      "title": "Unter der Oberfläche",
+      "subtitle": "Eine Reise von der Oberfläche der Ostsee hinab in die dunkle Tiefe",
+      "scrollHint": "Scrollen zum Abtauchen",
+      "levelTitle": "Leseniveau",
+      "levelAcademic": "Akademisch",
+      "levelGeneral": "Allgemein",
+      "levelChild": "Kinder",
+      "levelPreschool": "Vorschule",
+      "langLabel": "Sprache",
+      "statusLabel": "Status",
+      "latinLabel": "Wissenschaftlicher Name",
+      "factLabel": "Wusstest du schon",
+      "depthSurface": "Oberfläche",
+      "depthDeep": "Die Tiefe",
+      "aboutTitle": "Über diese Seite",
+      "restart": "Zurück zur Oberfläche",
+      "tapHint": "Tippe ein Lebewesen an",
+      "airBreatherNote": "Atmet an der Oberfläche – taucht zum Jagen tiefer",
+      "depthLabel": "Tiefe"
+    }
+  },
+  "framing": {
+    "sv": {
+      "intro": {
+        "academic": "Välkommen till ytan av Östersjön. Detta innanhav är ett av världens största brackvattenhav, där sötvatten från älvar möter saltvatten från Nordsjön. Den känsliga salthaltsgradienten, det långsamma vattenutbytet och decennier av övergödning gör ekosystemet ovanligt sårbart. Dyk ner genom vattenlagren och utforska hur ljus, syre och liv förändras mot djupet.",
+        "general": "Här uppe vid ytan glittrar Östersjön i solen, en liten fiskebåt guppar förbi och allt ser lugnt ut. Men under den blanka ytan döljer sig ett av världens känsligaste hav. Följ med ner genom det allt mörkare vattnet och möt livet som lever här.",
+        "child": "Hej och välkommen till Östersjön! Här uppe skiner solen, molnen seglar förbi och en liten fiskebåt gungar på vågorna. Men visste du att det finns en hel värld under ytan? Ta ett djupt andetag (på låtsas) och dyk med ner i det blå!",
+        "preschool": "Hej! Vill du dyka med ner i havet? Här uppe skiner solen och en liten båt gungar. Nere i vattnet bor många djur. Kom, så simmar vi ner tillsammans!"
+      },
+      "outro": {
+        "academic": "Östersjöns tillstånd är allvarligt, men inte hopplöst. Minskad näringsbelastning, hållbart fiske, skydd av känsliga livsmiljöer och begränsning av miljögifter kan stegvis återställa balansen. Återhämtningen tar tid, men varje åtgärd – från reningsverk till politiska överenskommelser och egna vardagsval – bidrar till ett friskare hav.",
+        "general": "Nu är vi längst ner, i det mörkaste och mest syrefattiga vattnet. Östersjön mår inte bra, men utvecklingen går att vända. Vi kan välja miljömärkt fisk, minska övergödningen, rösta för havet och låta bli att skräpa ner. Tillsammans kan vi ge havet en chans att läka.",
+        "child": "Nu är vi längst ner på djupet! Här är det mörkt och tyst. Östersjön behöver vår hjälp. Du kan plocka skräp på stranden, äta fisk som är bra för havet och berätta för andra hur fint men känsligt havet är. Små saker hjälper jättemycket!",
+        "preschool": "Nu är vi längst ner i havet! Här är det mörkt och mysigt. Havet behöver hjälp av oss. Du kan plocka skräp och vara snäll mot djuren. Tack för att du dök med ner!"
+      },
+      "about": "Den här sajten tar dig med på en resa från Östersjöns soliga yta ända ner till dess mörka djup. Texterna är skrivna för att väcka nyfikenhet i alla åldrar, och fakta bygger på källor som HELCOM, ICES och svensk havsmiljöforskning.",
+      "deadzone": {
+        "title": "Den döda zonen",
+        "text": "Under språngskiktet, på runt 80 meters djup, tar syret slut. Härifrån och ända ner till Landsortsdjupets 459 meter kan nästan inget liv finnas. Övergödningen har gjort Östersjöns djupbottnar till en av världens största syrefria zoner — en tyst, mörk öken."
+      }
+    },
+    "en": {
+      "intro": {
+        "academic": "Welcome to the surface of the Baltic Sea, one of the world's largest bodies of brackish water, where freshwater from rivers mingles with saltwater from the North Sea. Its delicate salinity gradient, slow water exchange and decades of nutrient loading make this ecosystem exceptionally vulnerable. Descend through the layers and discover how light, oxygen and life change as the water deepens.",
+        "general": "Up here at the surface, the Baltic Sea glitters in the sun, a little fishing boat drifts by and everything looks calm. But beneath the bright surface lies one of the most fragile seas on Earth. Come with us down through the darkening water and meet the life that lives here.",
+        "child": "Hi and welcome to the Baltic Sea! Up here the sun is shining, clouds float by and a little fishing boat rocks on the waves. But did you know there's a whole world beneath the surface? Take a deep (pretend) breath and dive down into the blue with us!",
+        "preschool": "Hi! Do you want to dive into the sea with me? Up here the sun is shining and a little boat is bobbing on the water. Down below live lots of animals. Come on, let's swim down together!"
+      },
+      "outro": {
+        "academic": "The Baltic Sea is in a serious state, but its situation is far from hopeless. Reducing nutrient inputs, fishing sustainably, protecting sensitive habitats and curbing pollutants can gradually restore the balance. Recovery takes time, yet every measure — from wastewater treatment to political agreements and everyday choices — helps build a healthier sea.",
+        "general": "Now we're at the very bottom, in the darkest, most oxygen-poor water. The Baltic Sea is struggling, but the trend can be reversed. We can choose eco-labelled fish, cut nutrient pollution, vote for the sea and stop littering. Together we can give this sea a chance to heal.",
+        "child": "Now we're all the way down in the deep! It's dark and quiet here. The Baltic Sea needs our help. You can pick up litter on the beach, eat fish that's good for the sea, and tell others how beautiful but fragile the sea is. Small things help a lot!",
+        "preschool": "Now we're at the very bottom of the sea! It's dark and cosy down here. The sea needs our help. You can pick up litter and be kind to the animals. Thank you for diving down with us!"
+      },
+      "about": "This site takes you on a journey from the sunlit surface of the Baltic Sea down to its dark depths. The texts are written to spark curiosity at every age, and the facts draw on sources such as HELCOM, ICES and Swedish marine environmental research.",
+      "deadzone": {
+        "title": "The dead zone",
+        "text": "Below the halocline, at around 80 metres, the oxygen runs out. From here all the way down to the 459-metre Landsort Deep, almost nothing can live. Eutrophication has turned the Baltic's deep seabed into one of the world's largest oxygen-free zones — a silent, dark desert."
+      }
+    },
+    "fi": {
+      "intro": {
+        "academic": "Tervetuloa Itämeren pinnalle. Tämä sisämeri on yksi maailman suurimmista murtovesialtaista, jossa jokien makea vesi sekoittuu Pohjanmereltä tulevaan suolaiseen veteen. Herkkä suolaisuusgradientti, hidas vedenvaihto ja vuosikymmenten rehevöityminen tekevät ekosysteemistä erityisen haavoittuvan. Sukella vesikerrosten läpi ja tutki, miten valo, happi ja elämä muuttuvat syvyyttä kohti.",
+        "general": "Täällä pinnalla Itämeri kimaltelee auringossa, pieni kalastusvene keinuu ohi ja kaikki näyttää rauhalliselta. Mutta kirkkaan pinnan alla piilee yksi maailman herkimmistä meristä. Tule mukaan alas yhä tummempaan veteen ja tapaa täällä elävät olennot.",
+        "child": "Hei ja tervetuloa Itämerelle! Täällä ylhäällä paistaa aurinko, pilvet purjehtivat ohi ja pieni kalastusvene keinuu aalloilla. Mutta tiesitkö, että pinnan alla on kokonainen maailma? Vedä syvään henkeä (ihan leikisti) ja sukella kanssamme siniseen!",
+        "preschool": "Hei! Haluatko sukeltaa mereen kanssani? Täällä ylhäällä paistaa aurinko ja pieni vene keinuu. Veden alla asuu paljon eläimiä. Tule, uidaan yhdessä alas!"
+      },
+      "outro": {
+        "academic": "Itämeren tila on vakava, mutta ei toivoton. Ravinnekuormituksen vähentäminen, kestävä kalastus, herkkien elinympäristöjen suojelu ja ympäristömyrkkyjen rajoittaminen voivat vähitellen palauttaa tasapainon. Toipuminen vie aikaa, mutta jokainen toimi – jätevedenpuhdistamoista poliittisiin sopimuksiin ja arjen valintoihin – rakentaa terveempää merta.",
+        "general": "Nyt olemme aivan pohjalla, pimeimmässä ja vähähappisimmassa vedessä. Itämeri voi huonosti, mutta suunta on käännettävissä. Voimme valita ympäristömerkittyä kalaa, vähentää rehevöitymistä, äänestää meren puolesta ja jättää roskaamatta. Yhdessä voimme antaa merelle mahdollisuuden parantua.",
+        "child": "Nyt olemme aivan syvällä! Täällä on pimeää ja hiljaista. Itämeri tarvitsee apuamme. Voit kerätä roskia rannalta, syödä merelle hyvää kalaa ja kertoa muille, miten kaunis mutta herkkä meri on. Pienet teot auttavat tosi paljon!",
+        "preschool": "Nyt olemme aivan meren pohjalla! Täällä on pimeää ja kodikasta. Meri tarvitsee meidän apuamme. Voit kerätä roskia ja olla kiltti eläimille. Kiitos, että sukelsit mukaan!"
+      },
+      "about": "Tämä sivusto vie sinut matkalle Itämeren aurinkoiselta pinnalta sen pimeisiin syvyyksiin. Tekstit on kirjoitettu herättämään uteliaisuutta kaikenikäisissä, ja tiedot perustuvat lähteisiin kuten HELCOM, ICES ja ruotsalainen meriympäristötutkimus.",
+      "deadzone": {
+        "title": "Kuollut vyöhyke",
+        "text": "Harppauskerroksen alapuolella, noin 80 metrin syvyydessä, happi loppuu. Täältä aina Landsortin syvänteen 459 metriin asti ei juuri mikään voi elää. Rehevöityminen on tehnyt Itämeren syvänteistä yhden maailman suurimmista hapettomista alueista — hiljaisen, pimeän aavikon."
+      }
+    },
+    "de": {
+      "intro": {
+        "academic": "Willkommen an der Oberfläche der Ostsee. Dieses Binnenmeer ist eines der größten Brackwassermeere der Welt, in dem Süßwasser aus Flüssen auf Salzwasser aus der Nordsee trifft. Der empfindliche Salzgehaltsgradient, der langsame Wasseraustausch und Jahrzehnte der Überdüngung machen dieses Ökosystem besonders verletzlich. Tauchen Sie durch die Wasserschichten und entdecken Sie, wie sich Licht, Sauerstoff und Leben mit zunehmender Tiefe verändern.",
+        "general": "Hier oben an der Oberfläche glitzert die Ostsee in der Sonne, ein kleines Fischerboot schaukelt vorbei und alles wirkt ruhig. Doch unter der glänzenden Oberfläche verbirgt sich eines der empfindlichsten Meere der Welt. Komm mit hinunter durch das immer dunklere Wasser und begegne dem Leben, das hier zu Hause ist.",
+        "child": "Hallo und willkommen an der Ostsee! Hier oben scheint die Sonne, Wolken ziehen vorbei und ein kleines Fischerboot schaukelt auf den Wellen. Aber wusstest du, dass es unter der Oberfläche eine ganze Welt gibt? Hol (in Gedanken) tief Luft und tauch mit uns hinab ins Blaue!",
+        "preschool": "Hallo! Möchtest du mit mir ins Meer tauchen? Hier oben scheint die Sonne und ein kleines Boot schaukelt. Unten im Wasser wohnen viele Tiere. Komm, wir schwimmen zusammen nach unten!"
+      },
+      "outro": {
+        "academic": "Der Zustand der Ostsee ist ernst, aber nicht hoffnungslos. Geringere Nährstoffeinträge, nachhaltige Fischerei, der Schutz empfindlicher Lebensräume und die Begrenzung von Schadstoffen können das Gleichgewicht allmählich wiederherstellen. Die Erholung braucht Zeit, doch jede Maßnahme – von Kläranlagen über politische Vereinbarungen bis zu den eigenen Alltagsentscheidungen – trägt zu einem gesünderen Meer bei.",
+        "general": "Jetzt sind wir ganz unten, im dunkelsten und sauerstoffärmsten Wasser. Der Ostsee geht es nicht gut, aber die Entwicklung lässt sich umkehren. Wir können umweltzertifizierten Fisch wählen, die Überdüngung verringern, für das Meer stimmen und keinen Müll hinterlassen. Gemeinsam können wir diesem Meer eine Chance zur Erholung geben.",
+        "child": "Jetzt sind wir ganz unten in der Tiefe! Hier ist es dunkel und still. Die Ostsee braucht unsere Hilfe. Du kannst am Strand Müll aufsammeln, Fisch essen, der gut für das Meer ist, und anderen erzählen, wie schön und zugleich empfindlich das Meer ist. Kleine Dinge helfen sehr viel!",
+        "preschool": "Jetzt sind wir ganz unten im Meer! Hier ist es dunkel und gemütlich. Das Meer braucht unsere Hilfe. Du kannst Müll aufsammeln und nett zu den Tieren sein. Danke, dass du mit uns getaucht bist!"
+      },
+      "about": "Diese Seite nimmt dich mit auf eine Reise von der sonnigen Oberfläche der Ostsee bis hinab in ihre dunkle Tiefe. Die Texte sollen in jedem Alter Neugier wecken, und die Fakten stützen sich auf Quellen wie HELCOM, ICES und die schwedische Meeresumweltforschung.",
+      "deadzone": {
+        "title": "Die tote Zone",
+        "text": "Unterhalb der Sprungschicht, in etwa 80 Metern Tiefe, geht der Sauerstoff aus. Von hier bis hinunter zum 459 Meter tiefen Landsorttief kann fast nichts mehr leben. Die Überdüngung hat die tiefen Böden der Ostsee zu einer der größten sauerstofffreien Zonen der Welt gemacht — einer stillen, dunklen Wüste."
+      }
+    }
+  },
+  "creatures": {
+    "blastang": {
+      "id": "blastang",
+      "latin": "Fucus vesiculosus",
+      "i18n": {
+        "sv": {
+          "name": "Blåstång",
+          "role": "Undervattensskogen",
+          "status": "Minskande nyckelhabitat",
+          "fact": "Blåstången växer ända ner till omkring tio meters djup, och HELCOM mäter just hur djupt den når som ett mått på hur frisk Östersjön är.",
+          "levels": {
+            "academic": "Blåstång (Fucus vesiculosus) är en habitatbildande brunalg som utgör Östersjöns viktigaste tångskog på hårdbotten i den fotiska zonen, cirka 0-10 meter. Den tredimensionella strukturen ger skydd, föda och barnkammare åt snäckor, kräftdjur och fiskyngel. Vid övergödning minskar siktdjupet, vilket tvingar bältet att krypa grundare, samtidigt som fintrådiga påväxtalger (slick) överväxer och kväver bålarna. HELCOM följer artens djuputbredning som en indikator på Östersjöns ekologiska status.",
+            "general": "Blåstången är Östersjöns undervattensskog — en brunalg som bildar täta bälten på klippor och stenar nära ytan. Bland grenarna gömmer sig massor av smådjur och fiskyngel. När vattnet grumlas av övergödning trängs skogen ihop på grundare vatten och växer igen av trådalger.",
+            "child": "Blåstången är som en skog under vattnet, där små djur och fiskyngel gömmer sig och hittar mat. När havet blir grumligt och smutsigt får skogen svårt att växa — och då blir många små djur hemlösa.",
+            "preschool": "Hej! Jag är blåstången, en hel skog under vattnet där pyttesmå djur bor. Jag mår bäst när vattnet är klart och rent."
+          }
+        },
+        "en": {
+          "name": "Bladderwrack",
+          "role": "The Underwater Forest",
+          "status": "Declining keystone habitat",
+          "fact": "Bladderwrack grows down to around ten metres deep, and HELCOM tracks exactly how deep it reaches as a measure of the Baltic Sea's health.",
+          "levels": {
+            "academic": "Bladderwrack (Fucus vesiculosus) is a habitat-forming brown alga that constitutes the Baltic Sea's principal canopy on hard substrates within the photic zone, roughly 0-10 m. Its three-dimensional structure provides shelter, food and nursery habitat for snails, crustaceans and fish larvae. Eutrophication reduces water clarity, forcing the belt into shallower water while filamentous epiphytes overgrow and smother the thalli. HELCOM monitors the species' depth distribution as an indicator of the Baltic Sea's ecological status.",
+            "general": "Bladderwrack is the Baltic Sea's underwater forest — a brown seaweed that forms dense belts on rocks and stones near the surface. Countless small creatures and fish fry shelter among its branches. When eutrophication clouds the water, the forest is squeezed into shallower depths and choked by filamentous algae.",
+            "child": "Bladderwrack is like a forest under the water, where little animals and baby fish hide and find food. When the sea turns murky and dirty, the forest struggles to grow — and many small animals lose their home.",
+            "preschool": "Hi! I'm bladderwrack, a whole forest under the water where tiny animals live. I feel best when the water is clear and clean."
+          }
+        },
+        "fi": {
+          "name": "Rakkohauru",
+          "role": "Vedenalainen metsä",
+          "status": "Vähenevä avainelinympäristö",
+          "fact": "Rakkohauru kasvaa noin kymmenen metrin syvyyteen asti, ja HELCOM seuraa juuri sen syvyyslevinneisyyttä Itämeren terveyden mittarina.",
+          "levels": {
+            "academic": "Rakkohauru (Fucus vesiculosus) on elinympäristöä muodostava ruskolevä, joka rakentaa Itämeren tärkeimmän vedenalaisen metsän kovalle pohjalle valoisaan vyöhykkeeseen, noin 0-10 metrin syvyyteen. Sen kolmiulotteinen rakenne tarjoaa suojaa, ravintoa ja kasvualueen kotiloille, äyriäisille ja kalanpoikasille. Rehevöityminen vähentää veden kirkkautta, jolloin vyöhyke joutuu siirtymään matalampaan veteen ja rihmamaiset päällyslevät tukahduttavat sen kasvustot. HELCOM seuraa lajin syvyyslevinneisyyttä Itämeren ekologisen tilan indikaattorina.",
+            "general": "Rakkohauru on Itämeren vedenalainen metsä — ruskolevä, joka muodostaa tiheitä vöitä kallioille ja kiville lähelle pintaa. Sen haarojen suojassa piilee lukematon määrä pikkueläimiä ja kalanpoikasia. Kun rehevöityminen samentaa veden, metsä ahtautuu matalampaan veteen ja rihmalevät peittävät sen.",
+            "child": "Rakkohauru on kuin metsä veden alla, jossa pienet eläimet ja kalanpoikaset piileskelevät ja löytävät ruokaa. Kun meri muuttuu sameaksi ja likaiseksi, metsän on vaikea kasvaa — ja monet pikkueläimet jäävät kodittomiksi.",
+            "preschool": "Hei! Olen rakkohauru, kokonainen metsä veden alla, jossa asuu pikkuruisia eläimiä. Voin parhaiten, kun vesi on kirkasta ja puhdasta."
+          }
+        },
+        "de": {
+          "name": "Blasentang",
+          "role": "Der Unterwasserwald",
+          "status": "Schwindender Schlüssellebensraum",
+          "fact": "Der Blasentang wächst bis in etwa zehn Meter Tiefe, und HELCOM verfolgt gerade seine Tiefenverbreitung als Maß für die Gesundheit der Ostsee.",
+          "levels": {
+            "academic": "Der Blasentang (Fucus vesiculosus) ist eine habitatbildende Braunalge, die auf Hartböden in der lichtdurchfluteten Zone von etwa 0-10 Metern den wichtigsten Unterwasserwald der Ostsee bildet. Seine dreidimensionale Struktur bietet Schnecken, Krebstieren und Fischlarven Schutz, Nahrung und Kinderstube. Bei Eutrophierung sinkt die Sichttiefe, sodass der Gürtel in flacheres Wasser ausweichen muss, während fädige Aufwuchsalgen die Thalli überwuchern und ersticken. HELCOM überwacht die Tiefenverbreitung der Art als Indikator für den ökologischen Zustand der Ostsee.",
+            "general": "Der Blasentang ist der Unterwasserwald der Ostsee — eine Braunalge, die dichte Gürtel auf Felsen und Steinen nahe der Oberfläche bildet. Zwischen seinen Zweigen verstecken sich unzählige Kleintiere und Fischbrut. Wenn die Eutrophierung das Wasser trübt, wird der Wald in flacheres Wasser gedrängt und von Fadenalgen überwuchert.",
+            "child": "Der Blasentang ist wie ein Wald unter Wasser, in dem sich kleine Tiere und Fischbabys verstecken und Futter finden. Wenn das Meer trüb und schmutzig wird, kann der Wald nur schwer wachsen — und viele kleine Tiere verlieren ihr Zuhause.",
+            "preschool": "Hallo! Ich bin der Blasentang, ein ganzer Wald unter Wasser, in dem winzige Tiere wohnen. Mir geht es am besten, wenn das Wasser klar und sauber ist."
+          }
+        }
+      },
+      "depth": 4,
+      "airBreather": false,
+      "voice": "A warm, motherly, welcoming voice — rich, gentle and grand, like the kindly host of an ancient forest. Mid-low pitch, slow and reassuring, with a soft, rustling calm. Nurturing, wise and protective; the kind of voice that makes small creatures feel safe and at home among its swaying fronds.",
+      "voiceId": "1MgDdKtXmTFN4f0XcG2A",
+      "kbId": "SR3fiii5Gkv8ZKOu2jx0",
+      "agentId": "agent_0301kw7xakwcf7xa2pre5eynv7jn"
+    },
+    "storspigg": {
+      "id": "storspigg",
+      "latin": "Gasterosteus aculeatus",
+      "i18n": {
+        "sv": {
+          "name": "Storspigg",
+          "role": "Den lilla tuffingen som blivit för många",
+          "status": "Ökar kraftigt",
+          "fact": "Storspiggen har blivit så talrik längs kusten att forskarna kallar fenomenet för spiggvågen.",
+          "levels": {
+            "academic": "Storspiggen har genomgått en explosionsartad populationsökning i Östersjön, ett förlopp som kallats spiggvågen och som gynnas av övergödning och kraftigt decimerade bestånd av stora rovfiskar. Genom intensiv predation på rom och yngel av abborre och gädda hämmar arten rovfiskrekryteringen, vilket skapar en självförstärkande återkoppling och ett regimskifte i kustekosystemet. Mekanismen samspelar med syrebrist (hypoxi) i utsjön och med fiske- och bifångsttryck på de stora rovfiskarna. Övervakning och förvaltningsråd från HELCOM och ICES pekar på behovet av att återställa rovfiskbestånden för att bryta cirkeln.",
+            "general": "Storspiggen är en liten taggig fisk som plötsligt blivit oerhört talrik längs Östersjökusten. Den äter upp rommen och ynglen av abborre och gädda, så att rovfiskarna inte hinner växa till - och då blir det ännu mer spigg. Det är en ond cirkel som kan välta balansen i hela kustekosystemet.",
+            "child": "Storspiggen är en pytteliten fisk med vassa taggar, men den har blivit jättemånga. Den äter upp barnen till gädda och abborre, så att de stora fiskarna inte kan bli fler - och det rubbar hela havet.",
+            "preschool": "Hej! Jag är storspiggen, en liten fisk med vassa taggar. Nu har vi blivit jättemånga, och då blir det knepigt för de stora fiskarna - men taggarna skyddar mig."
+          }
+        },
+        "en": {
+          "name": "Three-spined stickleback",
+          "role": "The little tough guy who became too many",
+          "status": "Rapidly increasing",
+          "fact": "Sticklebacks have become so abundant along the coast that scientists call the surge 'the stickleback wave'.",
+          "levels": {
+            "academic": "The three-spined stickleback has undergone an explosive population increase in the Baltic Sea - the so-called stickleback wave - favoured by eutrophication and severely depleted stocks of large predatory fish such as perch and pike. Through intense predation on the eggs and larvae of these predators, the stickleback suppresses their recruitment, generating a self-reinforcing feedback loop and a regime shift in the coastal ecosystem. This mechanism interacts with offshore hypoxia and with fishing and bycatch pressure on the large predators. Monitoring and management advice from HELCOM and ICES emphasise restoring predatory fish stocks to break the cycle.",
+            "general": "The three-spined stickleback is a tiny spiny fish that has suddenly become incredibly abundant along the Baltic coast. It eats the eggs and young of perch and pike, so the predator fish can't grow in numbers - which means even more sticklebacks. It's a vicious circle that can tip the balance of the whole coastal ecosystem.",
+            "child": "The stickleback is a tiny fish with sharp spines, but there are huge numbers of them now. They eat the babies of pike and perch, so the big fish can't grow up - and that throws the whole sea off balance.",
+            "preschool": "Hi! I'm the stickleback, a tiny fish with sharp little spines. There are so many of us now that it's tricky for the big fish - but my spines keep me safe."
+          }
+        },
+        "fi": {
+          "name": "Kolmipiikki",
+          "role": "Pieni kovis, jota on tullut liikaa",
+          "status": "Runsastuu voimakkaasti",
+          "fact": "Kolmipiikkiä on rannikolla niin paljon, että tutkijat puhuvat piikkikala-aallosta.",
+          "levels": {
+            "academic": "Kolmipiikin kanta on kasvanut räjähdysmäisesti Itämerellä - ilmiötä on kutsuttu piikkikala-aalloksi - ja sitä suosivat rehevöityminen sekä suurten petokalojen, kuten ahvenen ja hauen, voimakkaasti heikentyneet kannat. Saalistamalla tehokkaasti näiden petokalojen mätiä ja poikasia kolmipiikki estää niiden lisääntymisen, mikä synnyttää itseään vahvistavan takaisinkytkennän ja ekosysteemin regiimimuutoksen rannikolla. Mekanismi kytkeytyy ulapan happikatoon (hypoksiaan) sekä petokaloihin kohdistuvaan kalastus- ja sivusaalispaineeseen. HELCOMin ja ICESin seuranta ja hoitosuositukset korostavat petokalakantojen elvyttämistä kierteen katkaisemiseksi.",
+            "general": "Kolmipiikki on pieni piikikäs kala, jota on yhtäkkiä ilmaantunut valtavat määrät Itämeren rannikolle. Se syö ahvenen ja hauen mätiä ja poikasia, joten petokalat eivät pääse runsastumaan - ja silloin piikkikaloja tulee entistä enemmän. Tämä noidankehä voi kaataa koko rannikon ekosysteemin tasapainon.",
+            "child": "Kolmipiikki on pikkuruinen kala, jolla on terävät piikit, mutta niitä on nyt valtavan paljon. Se syö hauen ja ahvenen poikasia, joten isot kalat eivät pääse kasvamaan - ja se sekoittaa koko meren tasapainon.",
+            "preschool": "Hei! Minä olen kolmipiikki, pieni kala, jolla on terävät piikit. Meitä on nyt tosi paljon, ja siksi isoilla kaloilla on vaikeaa - mutta piikit suojaavat minua."
+          }
+        },
+        "de": {
+          "name": "Dreistachliger Stichling",
+          "role": "Der kleine Draufgänger, der zu viele geworden ist",
+          "status": "Stark zunehmend",
+          "fact": "Stichlinge sind an der Küste so zahlreich geworden, dass Forscher von der Stichlingswelle sprechen.",
+          "levels": {
+            "academic": "Der Dreistachlige Stichling hat in der Ostsee eine explosionsartige Bestandszunahme erlebt - die sogenannte Stichlingswelle -, begünstigt durch Eutrophierung und stark dezimierte Bestände großer Raubfische wie Barsch und Hecht. Durch intensive Prädation an Eiern und Larven dieser Raubfische unterdrückt der Stichling deren Nachwuchs und erzeugt so eine sich selbst verstärkende Rückkopplung sowie einen Regimewechsel im Küstenökosystem. Dieser Mechanismus wirkt mit der Sauerstoffarmut (Hypoxie) im Freiwasser und mit dem Fischerei- und Beifangdruck auf die großen Raubfische zusammen. Monitoring und Managementempfehlungen von HELCOM und ICES betonen die Wiederherstellung der Raubfischbestände, um den Kreislauf zu durchbrechen.",
+            "general": "Der Dreistachlige Stichling ist ein kleiner stacheliger Fisch, der plötzlich in riesigen Mengen an der Ostseeküste aufgetaucht ist. Er frisst die Eier und Jungfische von Barsch und Hecht, sodass sich die Raubfische nicht vermehren können - und dann gibt es noch mehr Stichlinge. Ein Teufelskreis, der das Gleichgewicht der gesamten Küste kippen kann.",
+            "child": "Der Stichling ist ein winziger Fisch mit scharfen Stacheln, aber jetzt gibt es unglaublich viele davon. Er frisst die Babys von Hecht und Barsch, sodass die großen Fische nicht groß werden können - und das bringt das ganze Meer aus dem Gleichgewicht.",
+            "preschool": "Hallo! Ich bin der Stichling, ein winziger Fisch mit scharfen Stacheln. Uns gibt es jetzt ganz viele, und darum haben es die großen Fische schwer - aber meine Stacheln beschützen mich."
+          }
+        }
+      },
+      "depth": 10,
+      "airBreather": false,
+      "voice": "A small but cocky voice — wiry, brash and streetwise, mid-pitched with a punchy, swaggering edge. Quick, confident delivery with attitude and bravado, like a scrappy underdog who knows he's winning now. Tough, cheeky and totally unbothered, talking big despite his tiny, spiny size.",
+      "voiceId": "ILcIjE4JY6Ppd9KWAjtZ",
+      "kbId": "LAfwUID0eKHsnab0iTo7",
+      "agentId": "agent_7701kw7xbd2newjvbdwgwh6gyprf"
+    },
+    "oronmanet": {
+      "id": "oronmanet",
+      "latin": "Aurelia aurita",
+      "i18n": {
+        "sv": {
+          "name": "Öronmanet",
+          "role": "Den genomskinliga geléfiguren",
+          "status": "Kan gynnas av varmare hav",
+          "fact": "Östersjöns vanligaste manet — och nästan helt genomskinlig.",
+          "levels": {
+            "academic": "Öronmaneten (Aurelia aurita) är Östersjöns vanligaste manet och växlar i sin livscykel mellan frisimmande medusa och fastsittande polyp. Den är nästan genomskinlig och känns igen på sina fyra ringformade könsorgan; födan består av djurplankton samt fiskyngel och rom, vilket gör att den både konkurrerar med och predaterar tidiga fiskstadier. Tidvis bildas omfattande ansamlingar (bloom), och gelékroppar antas kunna gynnas när havet värms och näringsväven rubbas av övergödning, hypoxi och fisketryck. Arten betraktas därför som en indikator på pågående regimskiften, något som följs inom HELCOM:s och ICES miljöövervakning.",
+            "general": "Öronmaneten är den vanligaste maneten i Östersjön, nästan genomskinlig så när som på de fyra ringformade könsorgan som lyser igenom kroppen. Den äter djurplankton men också fiskyngel och rom, och kan tidvis dyka upp i enorma svärmar. När havet blir varmare och näringsväven kommer i obalans, tror forskarna att geléartade djur som den kan få det allt lättare.",
+            "child": "Öronmaneten är nästan helt genomskinlig, så man kan se rakt igenom den. Den äter pyttesmå djur i vattnet, men också fiskyngel och fiskägg — och ibland blir maneterna jättemånga på samma gång.",
+            "preschool": "Hej! Jag är öronmaneten och jag är nästan osynlig i vattnet. När havet blir varmt blir vi jättemånga — då måste de små fiskarna simma undan oss."
+          }
+        },
+        "en": {
+          "name": "Moon jellyfish",
+          "role": "The see-through jelly character",
+          "status": "May thrive in warming seas",
+          "fact": "The most common jellyfish in the Baltic Sea — and almost completely transparent.",
+          "levels": {
+            "academic": "The moon jellyfish (Aurelia aurita) is the Baltic Sea's most common jellyfish, alternating in its life cycle between a free-swimming medusa and a bottom-attached polyp. Nearly transparent, it is recognised by its four ring-shaped gonads; it feeds on zooplankton as well as fish larvae and eggs, placing it in both competition with and predation on early fish stages. Mass aggregations (blooms) form periodically, and gelatinous organisms are thought to gain ground as the sea warms and the food web is disrupted by eutrophication, hypoxia and fishing pressure. The species is therefore treated as an indicator of ongoing regime shifts, monitored within the HELCOM and ICES frameworks.",
+            "general": "The moon jellyfish is the most common jellyfish in the Baltic, almost see-through apart from the four ring-shaped gonads that show through its body. It eats zooplankton but also fish larvae and eggs, and can sometimes appear in vast swarms. As the sea warms and the food web falls out of balance, scientists expect gelatinous animals like this one to do increasingly well.",
+            "child": "The moon jellyfish is almost completely see-through, so you can look right through it. It eats tiny animals in the water, but also baby fish and fish eggs — and sometimes huge numbers of jellyfish turn up all at once.",
+            "preschool": "Hi! I'm the moon jellyfish, and in the water I'm almost invisible. When the sea gets warm there are lots and lots of us — and then the little fish have to swim away from me."
+          }
+        },
+        "fi": {
+          "name": "Korvameduusa",
+          "role": "Läpinäkyvä hyytelöhahmo",
+          "status": "Saattaa hyötyä lämpenevästä merestä",
+          "fact": "Itämeren yleisin meduusa — ja lähes täysin läpinäkyvä.",
+          "levels": {
+            "academic": "Korvameduusa (Aurelia aurita) on Itämeren yleisin meduusa, ja sen elinkierto vaihtelee vapaasti uivan meduusan ja pohjaan kiinnittyneen polyypin välillä. Se on lähes läpinäkyvä, ja sen tunnistaa neljästä rengasmaisesta sukurauhasesta; se syö eläinplanktonia sekä kalanpoikasia ja mätiä, mikä asettaa sen sekä kilpailuun että saalistussuhteeseen kalojen varhaisvaiheiden kanssa. Ajoittain muodostuu laajoja parvia (massaesiintymiä), ja hyytelömäisten eläinten arvellaan hyötyvän, kun meri lämpenee ja ravintoverkko järkkyy rehevöitymisen, vähähappisuuden ja kalastuspaineen seurauksena. Lajia pidetäänkin merkkinä käynnissä olevista ekosysteemin muutoksista, joita seurataan HELCOMin ja ICESin puitteissa.",
+            "general": "Korvameduusa on Itämeren yleisin meduusa, lähes läpinäkyvä lukuun ottamatta neljää rengasmaista sukurauhasta, jotka kuultavat sen läpi. Se syö eläinplanktonia mutta myös kalanpoikasia ja mätiä, ja sitä voi ajoittain esiintyä valtavina parvina. Kun meri lämpenee ja ravintoverkko menee epätasapainoon, tutkijat uskovat hyytelömäisten eläinten kaltaisten lajien menestyvän yhä paremmin.",
+            "child": "Korvameduusa on lähes täysin läpinäkyvä, joten sen läpi voi nähdä. Se syö pieniä eläimiä vedessä, mutta myös kalanpoikasia ja mätiä — ja joskus meduusoita ilmestyy valtavan paljon yhtä aikaa.",
+            "preschool": "Hei! Olen korvameduusa, ja vedessä olen melkein näkymätön. Kun meri lämpenee, meitä on tosi paljon — silloin pienten kalojen täytyy uida pakoon."
+          }
+        },
+        "de": {
+          "name": "Ohrenqualle",
+          "role": "Die durchsichtige Geleefigur",
+          "status": "Könnte von wärmeren Meeren profitieren",
+          "fact": "Die häufigste Qualle der Ostsee — und fast völlig durchsichtig.",
+          "levels": {
+            "academic": "Die Ohrenqualle (Aurelia aurita) ist die häufigste Qualle der Ostsee und wechselt in ihrem Lebenszyklus zwischen frei schwimmender Meduse und festsitzendem Polypen. Sie ist nahezu durchsichtig und an ihren vier ringförmigen Keimdrüsen (Gonaden) zu erkennen; sie frisst Zooplankton sowie Fischlarven und -eier und steht damit in Konkurrenz zu frühen Fischstadien, die sie zugleich erbeutet. Zeitweise bilden sich ausgedehnte Massenansammlungen (Blooms), und gallertartige Organismen dürften begünstigt werden, wenn sich das Meer erwärmt und das Nahrungsnetz durch Eutrophierung, Sauerstoffmangel (Hypoxie) und Fischereidruck gestört wird. Die Art gilt daher als Indikator für laufende Regimewechsel, die im Rahmen von HELCOM und ICES überwacht werden.",
+            "general": "Die Ohrenqualle ist die häufigste Qualle der Ostsee, fast völlig durchsichtig bis auf die vier ringförmigen Keimdrüsen, die durch ihren Körper schimmern. Sie frisst Zooplankton, aber auch Fischlarven und -eier und kann zeitweise in riesigen Schwärmen auftreten. Wenn sich das Meer erwärmt und das Nahrungsnetz aus dem Gleichgewicht gerät, dürften gallertartige Tiere wie sie es zunehmend leichter haben.",
+            "child": "Die Ohrenqualle ist fast völlig durchsichtig, man kann mitten durch sie hindurchsehen. Sie frisst winzige Tiere im Wasser, aber auch Fischbabys und Fischeier — und manchmal tauchen ganz viele Quallen auf einmal auf.",
+            "preschool": "Hallo! Ich bin die Ohrenqualle, und im Wasser bin ich fast unsichtbar. Wenn das Meer warm wird, sind wir ganz viele — dann müssen die kleinen Fische vor mir wegschwimmen."
+          }
+        }
+      },
+      "depth": 20,
+      "airBreather": false,
+      "voice": "A dreamy, ethereal voice — airy, soft and whispery, seeming to drift and float. Light, breathy and otherworldly, with a slow, weightless flow and a faint echo. Gentle and serene, almost translucent in tone, as if speaking from a half-dream. Hypnotic, delicate and quietly mysterious.",
+      "voiceId": "Hl3m3ksdyiH4OzaKsPPJ",
+      "kbId": "aWWSP0Dmt1uY1IA37J3S",
+      "agentId": "agent_4101kw7xbx1yfews60z3cj5ek7pc"
+    },
+    "blamussla": {
+      "id": "blamussla",
+      "latin": "Mytilus trossulus",
+      "i18n": {
+        "sv": {
+          "name": "Blåmussla",
+          "role": "Havets lilla filter",
+          "status": "Livsviktig nyckelart",
+          "fact": "Blåmusslan silar vattnet rent från partiklar och näring – musselodling lyfts av HELCOM som ett sätt att motverka övergödningen.",
+          "levels": {
+            "academic": "Blåmusslan (Mytilus trossulus) är en suspensionsätare som filtrerar fytoplankton och partikulärt material ur vattenmassan och därmed binder kväve och fosfor i biomassa – en biologisk motvikt till övergödningen. I Östersjöns låga salthalt uppstår osmotisk stress som kraftigt hämmar tillväxten, varför individerna förblir betydligt mindre än sina marina artfränder. Musslorna bildar täta bankar på blåstång och hårdbotten och är en central länk i näringscykeln samt föda för ejder och andra dykänder. Musselodling lyfts av HELCOM som en åtgärd för att återföra näring från vattnet till land och motverka regional eutrofiering.",
+            "general": "Blåmusslan är Östersjöns lilla vattenreningsverk: den silar vattnet och tar upp partiklar och näringsämnen som kväve och fosfor, så att vattnet blir klarare. Här i det bräckta vattnet blir musslorna små, men de sitter i täta bankar på blåstång och sten och är viktig mat för ejder. Därför ses musselodling som ett sätt att minska övergödningen.",
+            "child": "Blåmusslan är som ett pyttelitet filter som suger in vatten och rensar bort smuts och näring, så att vattnet blir klarare. I Östersjön blir musslorna jättesmå, men de sitter tätt ihop på stenar och tång och blir mat åt ejdrarna.",
+            "preschool": "Hej! Jag är blåmusslan och jag städar vattnet åt dig genom att suga in det och rensa bort smutsen. Här i Östersjön är jag pytteliten, men det är okej – tillsammans är vi jättemånga!"
+          }
+        },
+        "en": {
+          "name": "Blue mussel",
+          "role": "The sea's little filter",
+          "status": "Vital keystone species",
+          "fact": "By filtering particles and nutrients from the water, the blue mussel makes it clearer – which is why HELCOM promotes mussel farming to fight eutrophication.",
+          "levels": {
+            "academic": "The blue mussel (Mytilus trossulus) is a suspension feeder that filters phytoplankton and particulate matter from the water column, sequestering nitrogen and phosphorus in its biomass and acting as a biological counterweight to eutrophication. The Baltic's low salinity imposes osmotic stress that markedly suppresses growth, so individuals remain far smaller than their marine counterparts. Forming dense beds on bladderwrack and hard substrate, the mussels are a central link in the nutrient cycle and key prey for eider and other diving ducks. HELCOM highlights mussel farming as a measure to return nutrients from the sea to land and curb regional eutrophication.",
+            "general": "The blue mussel is the Baltic's tiny water-treatment plant: it filters the water, taking up particles and nutrients like nitrogen and phosphorus and leaving it clearer. In this brackish sea the mussels stay small, but they cluster in dense beds on bladderwrack and stones and are vital food for eider ducks. That is why cultivating mussels is seen as a way to reduce eutrophication.",
+            "child": "The blue mussel is like a tiny filter that sucks in water and cleans out the dirt and food bits, so the water turns clearer. In the Baltic the mussels stay really small, but they pack together on rocks and seaweed and become dinner for the eider ducks.",
+            "preschool": "Hi! I'm the blue mussel, and I clean the water for you by slurping it in and taking out the dirt. Here in the Baltic Sea I'm teeny-tiny, but that's okay – there are so many of us together!"
+          }
+        },
+        "fi": {
+          "name": "Sinisimpukka",
+          "role": "Meren pieni suodatin",
+          "status": "Elintärkeä avainlaji",
+          "fact": "Suodattamalla hiukkasia ja ravinteita sinisimpukka kirkastaa vettä – siksi HELCOM suosittelee simpukoiden viljelyä rehevöitymisen torjuntaan.",
+          "levels": {
+            "academic": "Sinisimpukka (Mytilus trossulus) on suspensiosyöjä, joka suodattaa kasviplanktonia ja hiukkasmaista ainesta vesipatsaasta ja sitoo typpeä ja fosforia biomassaansa toimien näin biologisena vastapainona rehevöitymiselle. Itämeren alhainen suolapitoisuus aiheuttaa osmoottista stressiä, joka hidastaa kasvua voimakkaasti, joten yksilöt jäävät huomattavasti merellisiä lajitovereitaan pienemmiksi. Simpukat muodostavat tiheitä pankkeja kiinnittymällä rakkohauruun ja kovaan pohjaan ja ovat keskeinen lenkki ravinnekierrossa sekä tärkeää ravintoa haahkoille ja muille sukeltajasorsille. HELCOM nostaa simpukoiden viljelyn esiin keinona palauttaa ravinteita merestä maalle ja hillitä alueellista rehevöitymistä.",
+            "general": "Sinisimpukka on Itämeren pieni vedenpuhdistamo: se suodattaa vettä ja ottaa talteen hiukkasia ja ravinteita, kuten typpeä ja fosforia, jolloin vesi kirkastuu. Tässä murtovedessä simpukat jäävät pieniksi, mutta ne kasvavat tiheinä mattoina rakkohaurun ja kivien päällä ja ovat tärkeää ravintoa haahkoille. Siksi simpukoiden viljelyä pidetään keinona vähentää rehevöitymistä.",
+            "child": "Sinisimpukka on kuin pikkuruinen suodatin, joka imee vettä sisäänsä ja puhdistaa siitä liat ja ravinteet pois, niin että vesi kirkastuu. Itämeressä simpukat jäävät tosi pieniksi, mutta ne ovat tiiviisti yhdessä kivillä ja levissä ja päätyvät haahkojen ruoaksi.",
+            "preschool": "Hei! Minä olen sinisimpukka, ja minä puhdistan veden imemällä sitä sisääni ja ottamalla liat pois. Täällä Itämeressä olen ihan pikkuruinen, mutta ei se haittaa – meitä on yhdessä tosi paljon!"
+          }
+        },
+        "de": {
+          "name": "Miesmuschel",
+          "role": "Der kleine Filter des Meeres",
+          "status": "Lebenswichtige Schlüsselart",
+          "fact": "Indem sie Partikel und Nährstoffe aus dem Wasser filtert, macht die Miesmuschel es klarer – deshalb empfiehlt die HELCOM Muschelzucht gegen die Überdüngung.",
+          "levels": {
+            "academic": "Die Miesmuschel (Mytilus trossulus) ist ein Suspensionsfresser, der Phytoplankton und partikuläres Material aus der Wassersäule filtert und dabei Stickstoff und Phosphor in seiner Biomasse bindet – ein biologisches Gegengewicht zur Überdüngung (Eutrophierung). Der niedrige Salzgehalt der Ostsee verursacht osmotischen Stress, der das Wachstum stark hemmt, sodass die Tiere deutlich kleiner bleiben als ihre Artgenossen in vollmarinen Gewässern. Auf Blasentang und Hartsubstrat bilden die Muscheln dichte Bänke und sind ein zentrales Glied im Nährstoffkreislauf sowie wichtige Beute für Eiderenten und andere Tauchenten. Die HELCOM hebt die Muschelzucht als Maßnahme hervor, um Nährstoffe aus dem Meer an Land zurückzuführen und der regionalen Eutrophierung entgegenzuwirken.",
+            "general": "Die Miesmuschel ist die kleine Kläranlage der Ostsee: Sie filtert das Wasser und nimmt Partikel und Nährstoffe wie Stickstoff und Phosphor auf, sodass es klarer wird. In diesem Brackwasser bleiben die Muscheln klein, doch sie sitzen in dichten Bänken auf Blasentang und Steinen und sind wichtige Nahrung für Eiderenten. Deshalb gilt die Muschelzucht als ein Weg, die Überdüngung zu verringern.",
+            "child": "Die Miesmuschel ist wie ein winziger Filter, der Wasser einsaugt und Schmutz und Nährstoffe herausputzt, sodass das Wasser klarer wird. In der Ostsee bleiben die Muscheln ganz klein, aber sie sitzen dicht an dicht auf Steinen und Algen und werden zum Futter für die Eiderenten.",
+            "preschool": "Hallo! Ich bin die Miesmuschel und ich putze das Wasser für dich, indem ich es einsauge und den Schmutz herausnehme. Hier in der Ostsee bin ich ganz winzig, aber das ist okay – zusammen sind wir ganz viele!"
+          }
+        }
+      },
+      "depth": 28,
+      "airBreather": false,
+      "voice": "A soft, humble, soothing voice — quiet, mid-to-low and a little shy. Calm, steady, almost meditative pace with a warm, contented tone. Modest and unassuming, speaking gently as if not to disturb the water. Patient and kind, the quiet hard worker who filters away without ever asking for thanks.",
+      "voiceId": "eioDq76WbFNgeBbYSB9I",
+      "kbId": "rPDLjj1DZ3IkRzILFIIF",
+      "agentId": "agent_2201kw7xcf6xe77bw7500ebhh2yf"
+    },
+    "grasal": {
+      "id": "grasal",
+      "latin": "Halichoerus grypus",
+      "i18n": {
+        "sv": {
+          "name": "Gråsäl",
+          "role": "Den store fiskjägaren",
+          "status": "Tillbaka från utrotning",
+          "fact": "Från nära utrotning till tiotusentals individer i Östersjön.",
+          "levels": {
+            "academic": "Gråsälen är ett av Östersjöns största topprovdjur och jagar fisk i flera bestånd. Under 1900-talet kollapsade populationen genom jakt och fettlösliga miljögifter som PCB och DDT, vilka biomagnifierades uppåt i näringskedjan och gav reproduktionsstörningar och livmoderskador hos honorna. Tack vare jaktförbud och minskade utsläpp har beståndet återhämtat sig till tiotusentals djur – en av Östersjöns tydligaste miljöframgångar, som följs i HELCOM:s indikatorer. Kvar står konflikten med kustfisket, bifångst i nät samt hälsoproblem som tarmsår, kopplade till de gamla gifterna som arten fortfarande bär i sitt späcklager.",
+            "general": "Gråsälen är Östersjöns store fiskjägare och sitter högst upp i näringskedjan. På 1900-talet var den nära att utrotas av jakt och miljögifter som PCB, men efter jaktförbud har den kommit tillbaka och räknas nu i tiotusental. Samtidigt skaver den mot kustfisket, fastnar i nät och bär fortfarande på gamla gifter i sitt späck.",
+            "child": "Gråsälen är en stor jägare som äter fisk och dyker djupt ner i Östersjön. För länge sedan fanns det nästan inga sälar kvar, men nu finns det många igen – även om de fortfarande har gamla gifter i kroppen.",
+            "preschool": "Hej! Jag är gråsälen och jag är jätteduktig på att fånga fisk. Vi var nästan borta förut, men nu är vi många igen – och det känns skönt!"
+          }
+        },
+        "en": {
+          "name": "Grey seal",
+          "role": "The great fish hunter",
+          "status": "Back from the brink",
+          "fact": "From near extinction to tens of thousands in the Baltic Sea.",
+          "levels": {
+            "academic": "The grey seal is one of the Baltic Sea's largest apex predators, feeding on fish across several stocks. During the twentieth century its population collapsed under hunting pressure and fat-soluble pollutants such as PCBs and DDT, which biomagnified up the food web and caused reproductive failure and uterine lesions in females. Following hunting bans and reduced emissions the population has rebounded to tens of thousands of animals – one of the Baltic's clearest conservation successes, tracked through HELCOM indicators. What remains is the conflict with coastal fisheries, bycatch in nets, and health problems such as intestinal ulcers, linked to the legacy toxins the species still carries in its blubber.",
+            "general": "The grey seal is the Baltic's great fish hunter, sitting right at the top of the food chain. It was almost wiped out in the twentieth century by hunting and pollutants like PCBs, but after hunting bans it has recovered and now numbers in the tens of thousands. Even so, it clashes with coastal fishers, gets caught in nets, and still carries old toxins in its blubber.",
+            "child": "The grey seal is a big hunter that eats fish and dives deep down in the Baltic Sea. A long time ago there were almost none left, but now there are lots again – even though they still carry old poisons in their bodies.",
+            "preschool": "Hi! I'm the grey seal, and I'm really good at catching fish. We almost disappeared once, but now there are lots of us again – and that feels good!"
+          }
+        },
+        "fi": {
+          "name": "Harmaahylje",
+          "role": "Suuri kalansaalistaja",
+          "status": "Palannut sukupuuton partaalta",
+          "fact": "Lähes sukupuutosta kymmeniintuhansiin yksilöihin Itämerellä.",
+          "levels": {
+            "academic": "Harmaahylje on yksi Itämeren suurimmista huippupedoista, joka saalistaa kaloja useista kannoista. 1900-luvulla kanta romahti metsästyksen ja rasvaliukoisten ympäristömyrkkyjen, kuten PCB:n ja DDT:n, vuoksi; nämä rikastuivat ravintoverkossa ja aiheuttivat naaraille lisääntymishäiriöitä ja kohtuvaurioita. Metsästyskieltojen ja päästöjen vähenemisen ansiosta kanta on toipunut kymmeniintuhansiin yksilöihin – yksi Itämeren selkeimmistä ympäristönsuojelun menestystarinoista, jota seurataan HELCOMin indikaattoreilla. Haasteiksi jäävät ristiriita rannikkokalastuksen kanssa, sivusaaliiksi joutuminen verkkoihin sekä terveysongelmat, kuten suolistohaavaumat, jotka liittyvät hylkeiden rasvakerrokseen yhä varastoituneisiin vanhoihin myrkkyihin.",
+            "general": "Harmaahylje on Itämeren suuri kalastaja ravintoketjun huipulla. Se oli 1900-luvulla lähellä sukupuuttoa metsästyksen ja PCB:n kaltaisten myrkkyjen takia, mutta metsästyskieltojen jälkeen kanta on palannut ja lasketaan nyt kymmenissätuhansissa. Silti se aiheuttaa ongelmia rannikkokalastukselle, takertuu verkkoihin ja kantaa yhä vanhoja myrkkyjä rasvakerroksessaan.",
+            "child": "Harmaahylje on suuri saalistaja, joka syö kalaa ja sukeltaa syvälle Itämeressä. Kauan sitten hylkeitä oli jäljellä enää hyvin vähän, mutta nyt niitä on taas paljon – vaikka niillä on yhä vanhoja myrkkyjä kehossaan.",
+            "preschool": "Hei! Olen harmaahylje, ja osaan tosi hyvin napata kaloja. Ennen meitä oli tosi vähän, mutta nyt meitä on taas paljon – ja se tuntuu hyvältä!"
+          }
+        },
+        "de": {
+          "name": "Kegelrobbe",
+          "role": "Der große Fischjäger",
+          "status": "Dem Aussterben entronnen",
+          "fact": "Vom Rand des Aussterbens zu Zehntausenden in der Ostsee.",
+          "levels": {
+            "academic": "Die Kegelrobbe ist einer der größten Spitzenprädatoren der Ostsee und jagt Fische aus mehreren Beständen. Im 20. Jahrhundert brach die Population durch Bejagung und fettlösliche Umweltgifte wie PCB und DDT zusammen, die sich im Nahrungsnetz anreicherten und bei den Weibchen Fortpflanzungsstörungen sowie Gebärmutterschäden verursachten. Dank Jagdverboten und sinkender Schadstoffeinträge hat sich der Bestand auf Zehntausende Tiere erholt – einer der deutlichsten Naturschutzerfolge der Ostsee, dokumentiert in den Indikatoren von HELCOM. Bestehen bleiben der Konflikt mit der Küstenfischerei, der Beifang in Netzen sowie Gesundheitsprobleme wie Darmgeschwüre, die mit den alten Giften zusammenhängen, die das Tier noch immer in seinem Speck trägt.",
+            "general": "Die Kegelrobbe ist der große Fischjäger der Ostsee und steht an der Spitze der Nahrungskette. Im 20. Jahrhundert war sie durch Jagd und Gifte wie PCB fast ausgerottet, doch nach Jagdverboten ist sie zurückgekehrt und zählt heute Zehntausende Tiere. Trotzdem gerät sie in Konflikt mit der Küstenfischerei, verfängt sich in Netzen und trägt noch immer alte Gifte in ihrem Speck.",
+            "child": "Die Kegelrobbe ist ein großer Jäger, der Fische frisst und tief in der Ostsee taucht. Vor langer Zeit gab es fast keine mehr, doch heute gibt es wieder viele – auch wenn sie noch alte Gifte im Körper tragen.",
+            "preschool": "Hallo! Ich bin die Kegelrobbe und ich kann richtig gut Fische fangen. Früher gab es uns fast nicht mehr, aber jetzt sind wir wieder viele – und das fühlt sich schön an!"
+          }
+        }
+      },
+      "depth": 38,
+      "airBreather": true,
+      "voice": "A big, booming, hearty voice — deep, confident and jovial, full of robust good humour. Warm bass tones, relaxed and commanding, with a hint of a chuckle. Bold and self-assured, the loud, friendly giant of the group who has survived it all. Strong and lively, happily taking up plenty of space.",
+      "voiceId": "rQEj5LaRj31EXgNi7gwy",
+      "kbId": "fnjmAfpA0Iu6SPYMW6nt",
+      "agentId": "agent_4401kw7xcy7ee5srrmc8r4ngbg1c"
+    },
+    "tumlare": {
+      "id": "tumlare",
+      "latin": "Phocoena phocoena",
+      "i18n": {
+        "sv": {
+          "name": "Tumlare",
+          "role": "Den blyga lilla valen",
+          "status": "Akut hotad",
+          "fact": "Bara omkring 500 tumlare finns kvar i egentliga Östersjön.",
+          "levels": {
+            "academic": "Tumlaren är Östersjöns enda bofasta valart, en liten tandval som orienterar och jagar med ekolokalisering. Beståndet i egentliga Östersjön är genetiskt distinkt och akut hotat – SAMBAH-studien uppskattade det till omkring 500 individer. Den största dödsorsaken är bifångst i nätfiske, samtidigt som undervattensbuller maskerar djurets ekolokalisering och miljögifter tillsammans med vikande bytesbestånd försämrar dess kondition och fortplantning. HELCOM listar tumlaren som ett prioriterat marint däggdjur vars överlevnad kräver minskad bifångst och tystare hav.",
+            "general": "Tumlaren är den enda val som lever i Östersjön – en liten, skygg släkting till delfinen som är väldigt svår att få syn på. I egentliga Östersjön finns bara omkring 500 kvar, och de flesta dör genom att fastna och drunkna i fiskenät. Undervattensbuller stör dessutom deras \"ekoseende\", som de använder för att hitta mat och varandra.",
+            "child": "Tumlaren är Östersjöns enda val, och den är så blyg att nästan ingen hinner se den. Nu finns bara ungefär 500 kvar, för många fastnar i fiskenäten och kan inte komma upp för att andas.",
+            "preschool": "Hej! Jag är tumlaren, en pytteliten val som simmar alldeles tyst i havet. Vi är inte så många kvar, så var rädd om mig och mitt hav."
+          }
+        },
+        "en": {
+          "name": "Harbour porpoise",
+          "role": "The shy little whale",
+          "status": "Critically endangered",
+          "fact": "Only around 500 harbour porpoises remain in the Baltic Proper.",
+          "levels": {
+            "academic": "The harbour porpoise is the Baltic Sea's only resident cetacean, a small toothed whale that navigates and hunts by echolocation. The Baltic Proper population is genetically distinct and critically endangered, estimated by the SAMBAH study at roughly 500 individuals. Bycatch in gillnet fisheries is the leading cause of death, while underwater noise masks the animal's echolocation and contaminant loads together with declining prey impair its body condition and reproduction. HELCOM lists the species as a priority marine mammal whose survival depends on reduced bycatch and quieter seas.",
+            "general": "The harbour porpoise is the only whale that lives in the Baltic Sea – a small, shy cousin of the dolphin that is extremely hard to spot. Only about 500 are left in the Baltic Proper, and most of them die after becoming entangled and drowning in fishing nets. Underwater noise also disrupts the \"sound-sight\" they rely on to find food and each other.",
+            "child": "The harbour porpoise is the Baltic Sea's only whale, and it is so shy that hardly anyone ever sees it. Only about 500 are left, because many get caught in fishing nets and can't come up to breathe.",
+            "preschool": "Hi! I'm the porpoise, a tiny whale who swims very quietly through the sea. There aren't many of us left, so please take good care of me and my ocean."
+          }
+        },
+        "fi": {
+          "name": "Pyöriäinen",
+          "role": "Ujo pieni valas",
+          "status": "Äärimmäisen uhanalainen",
+          "fact": "Varsinaisella Itämerellä on jäljellä enää noin 500 pyöriäistä.",
+          "levels": {
+            "academic": "Pyöriäinen on ainoa Itämeressä vakituisesti elävä valas, pieni hammasvalas, joka suunnistaa ja saalistaa kaikuluotauksen avulla. Varsinaisen Itämeren kanta on geneettisesti erillinen ja äärimmäisen uhanalainen – SAMBAH-tutkimus arvioi sen kooksi noin 500 yksilöä. Merkittävin kuolinsyy on sivusaaliiksi joutuminen verkkokalastuksessa, kun taas vedenalainen melu peittää eläimen kaikuluotauksen ja ympäristömyrkyt sekä saaliskalojen väheneminen heikentävät sen kuntoa ja lisääntymistä. HELCOM luokittelee lajin tärkeäksi merinisäkkääksi, jonka säilyminen edellyttää sivusaaliin vähentämistä ja hiljaisempia meriä.",
+            "general": "Pyöriäinen on ainoa valas, joka elää Itämeressä – pieni ja ujo delfiinin sukulainen, jota on hyvin vaikea nähdä. Varsinaisella Itämerellä niitä on jäljellä enää noin 500, ja useimmat niistä kuolevat takertuessaan ja hukkuessaan kalaverkkoihin. Vedenalainen melu häiritsee myös niiden \"kaikunäköä\", jonka avulla ne löytävät ruokaa ja toisensa.",
+            "child": "Pyöriäinen on Itämeren ainoa valas, ja se on niin ujo, ettei sitä juuri kukaan ehdi nähdä. Niitä on jäljellä enää noin 500, koska monet jäävät kiinni kalaverkkoihin eivätkä pääse pintaan hengittämään.",
+            "preschool": "Hei! Minä olen pyöriäinen, pikkuruinen valas, joka ui aivan hiljaa meressä. Meitä ei ole enää montaa, joten pidäthän huolta minusta ja merestäni."
+          }
+        },
+        "de": {
+          "name": "Schweinswal",
+          "role": "Der scheue kleine Wal",
+          "status": "Vom Aussterben bedroht",
+          "fact": "In der eigentlichen Ostsee leben nur noch etwa 500 Schweinswale.",
+          "levels": {
+            "academic": "Der Schweinswal ist der einzige in der Ostsee heimische Wal, ein kleiner Zahnwal, der sich mithilfe der Echoortung orientiert und jagt. Der Bestand der eigentlichen Ostsee ist genetisch eigenständig und vom Aussterben bedroht – die SAMBAH-Studie schätzte ihn auf rund 500 Tiere. Häufigste Todesursache ist der Beifang in Stellnetzen, während Unterwasserlärm die Echoortung der Tiere überdeckt und Schadstoffe sowie schwindende Beutebestände ihre Kondition und Fortpflanzung beeinträchtigen. HELCOM führt die Art als prioritäres Meeressäugetier, dessen Überleben weniger Beifang und ruhigere Meere voraussetzt.",
+            "general": "Der Schweinswal ist der einzige Wal, der in der Ostsee lebt – ein kleiner, scheuer Verwandter des Delfins, den man nur sehr selten zu Gesicht bekommt. In der eigentlichen Ostsee gibt es nur noch etwa 500 Tiere, und die meisten von ihnen verfangen sich in Fischernetzen und ertrinken. Unterwasserlärm stört außerdem ihr \"Hörsehen\", mit dem sie Nahrung und einander finden.",
+            "child": "Der Schweinswal ist der einzige Wal der Ostsee, und er ist so scheu, dass ihn fast niemand zu sehen bekommt. Es gibt nur noch etwa 500 von ihnen, denn viele verfangen sich in Fischernetzen und können nicht zum Atmen auftauchen.",
+            "preschool": "Hallo! Ich bin der Schweinswal, ein winziger Wal, der ganz leise durch das Meer schwimmt. Es gibt nicht mehr viele von uns, also pass bitte gut auf mich und mein Meer auf."
+          }
+        }
+      },
+      "depth": 46,
+      "airBreather": true,
+      "voice": "A soft, shy, delicate voice — gentle, breathy and hushed, slightly high and fragile. Speaks quietly and tentatively, with timid pauses, as if afraid to be heard. Tender and vulnerable, yet quietly hopeful. The smallest, most elusive voice of all — easily missed, but deeply moving once you finally listen.",
+      "voiceId": "cOxao97od0zytCNeasJA",
+      "kbId": "aGzpu26RpyVsuycMUzpj",
+      "agentId": "agent_3201kw7xdcjeetgaq031x8c3bt8p"
+    },
+    "stromming": {
+      "id": "stromming",
+      "latin": "Clupea harengus membras",
+      "i18n": {
+        "sv": {
+          "name": "Strömming (sill)",
+          "role": "Den stressade stimfisken",
+          "status": "Nyckelart under press",
+          "fact": "Samma fisk har två namn: strömming norr om Kalmar, sill i väster.",
+          "levels": {
+            "academic": "Som central planktivor är strömmingen ett nav i Östersjöns näringsväv och en avgörande bytesresurs för torsk, säl, sjöfågel och tumlare. De senaste decennierna har medelstorleken och andelen stora individer minskat - en utveckling som forskare knyter både till hårt fisketryck, inte minst det storskaliga industrifisket efter fiskmjöl och foder, och till förändringar i ekosystemet. Mot bakgrund av ett försvagat bestånd har ICES upprepade gånger sänkt sina fångstrekommendationer, samtidigt som övergödning, syrebrist och tecken på regimskifte fortsätter att påverka rekrytering och kondition.",
+            "general": "Strömmingen är en mittpunkt i Östersjöns näringsväv - mat för torsk, säl, sjöfågel och tumlare. De stora strömmingarna har blivit allt färre, och oron växer för att det storskaliga fisket till fiskmjöl och djurfoder tär för hårt på bestånden. ICES har därför sänkt sina rekommendationer, och både det småskaliga kustfisket och skärgårdskulturen står på spel.",
+            "child": "Jag simmar i en jättestor stim med tusentals kompisar - tillsammans känns vi trygga. Men nu finns det färre stora strömmingar än förr, och många djur i havet behöver oss som mat.",
+            "preschool": "Hej! Jag är strömmingen, och jag simmar alltid med mina kompisar i en stor stim. Vi blir lite färre nu, men vi håller ihop."
+          }
+        },
+        "en": {
+          "name": "Baltic herring",
+          "role": "The stressed-out schooling fish",
+          "status": "Vital keystone species",
+          "fact": "One fish, two Swedish names: it's strömming north of Kalmar and sill in the west.",
+          "levels": {
+            "academic": "As a key planktivore, the Baltic herring is a central hub in the Baltic Sea food web and a critical prey resource for cod, seals, seabirds and harbour porpoises. Over recent decades both the mean body size and the proportion of large individuals have declined - a trend researchers link both to heavy fishing pressure, not least the large-scale industrial fishery supplying fishmeal and feed, and to wider ecosystem change. With the stock weakened, ICES has repeatedly lowered its catch advice, while eutrophication, hypoxia and signs of a regime shift continue to affect recruitment and body condition.",
+            "general": "The herring sits at the very heart of the Baltic food web - a meal for cod, seals, seabirds and porpoises alike. Large herring have grown scarce, and there is rising concern that industrial fishing for fishmeal and animal feed is taking too heavy a toll on the stocks. That is why ICES has cut its catch recommendations, with small-scale coastal fishing and archipelago culture hanging in the balance.",
+            "child": "I swim in a huge school with thousands of friends - together we feel safe. But there are fewer big herring than there used to be, and so many sea animals depend on us for food.",
+            "preschool": "Hi! I'm the little herring, and I always swim with my friends in one big group. There are fewer of us now, but we stay close together."
+          }
+        },
+        "fi": {
+          "name": "Silakka",
+          "role": "Stressaantunut parvikala",
+          "status": "Elintärkeä avainlaji",
+          "fact": "Silakka on sillin Itämeren-muoto - vähäsuolaiseen veteen sopeutunut ja hieman pienempi.",
+          "levels": {
+            "academic": "Keskeisenä planktonsyöjänä silakka on Itämeren ravintoverkon kulmakiviä ja tärkeä saaliskohde turskalle, hylkeille, merilinnuille ja pyöriäisille. Viime vuosikymmeninä silakan keskikoko ja suurten yksilöiden osuus ovat pienentyneet - kehitys, jonka tutkijat yhdistävät sekä kovaan kalastuspaineeseen, etenkin kalajauhoa ja rehua tuottavaan suurimittakaavaiseen teollisuuskalastukseen, että laajempiin ekosysteemimuutoksiin. Heikentyneen kannan vuoksi ICES on toistuvasti laskenut saalissuosituksiaan, samalla kun rehevöityminen, vähähappisuus ja merkit ekosysteemin tilamuutoksesta vaikuttavat edelleen poikastuotantoon ja kuntoon.",
+            "general": "Silakka on Itämeren ravintoverkon sydän - ruokaa turskalle, hylkeille, merilinnuille ja pyöriäisille. Suuret silakat ovat käyneet harvinaisiksi, ja huoli kasvaa siitä, että kalajauhoksi ja rehuksi suuntautuva teollinen kalastus verottaa kantoja liikaa. Siksi ICES on laskenut suosituksiaan, ja vaakalaudalla ovat pienimuotoinen rannikkokalastus ja saaristokulttuuri.",
+            "child": "Uin valtavassa parvessa tuhansien kavereiden kanssa - yhdessä tunnemme olomme turvalliseksi. Mutta isoja silakoita on nyt vähemmän kuin ennen, ja moni meren eläin tarvitsee meitä ruoakseen.",
+            "preschool": "Hei! Minä olen silakka, ja uin aina kavereitteni keskellä isossa parvessa. Meitä on nyt vähän vähemmän, mutta me pidämme yhtä."
+          }
+        },
+        "de": {
+          "name": "Ostseehering",
+          "role": "Der gestresste Schwarmfisch",
+          "status": "Lebenswichtige Schlüsselart",
+          "fact": "Der Ostseehering ist die kleinere, ans Brackwasser angepasste Form des Atlantischen Herings.",
+          "levels": {
+            "academic": "Als wichtiger Planktonfresser ist der Ostseehering ein zentraler Knotenpunkt im Nahrungsnetz der Ostsee und eine entscheidende Beutequelle für Dorsch, Robben, Seevögel und Schweinswale. In den letzten Jahrzehnten sind die mittlere Körpergröße und der Anteil großer Tiere zurückgegangen - eine Entwicklung, die Forschende sowohl auf den hohen Fischereidruck, allen voran die großindustrielle Fischerei für Fischmehl und Futtermittel, als auch auf weiterreichende Veränderungen im Ökosystem zurückführen. Angesichts des geschwächten Bestands hat der ICES seine Fangempfehlungen wiederholt gesenkt, während Eutrophierung, Sauerstoffmangel (Hypoxie) und Anzeichen eines Regimewechsels weiterhin Nachwuchs und Kondition beeinträchtigen.",
+            "general": "Der Hering ist das Herz des Ostsee-Nahrungsnetzes - Nahrung für Dorsch, Robben, Seevögel und Schweinswale. Große Heringe sind selten geworden, und es wächst die Sorge, dass die industrielle Fischerei für Fischmehl und Tierfutter die Bestände zu stark belastet. Deshalb hat der ICES seine Empfehlungen gesenkt - auf dem Spiel stehen die kleine Küstenfischerei und die Schärenkultur.",
+            "child": "Ich schwimme in einem riesigen Schwarm mit Tausenden Freunden - zusammen fühlen wir uns sicher. Aber es gibt weniger große Heringe als früher, und so viele Meerestiere brauchen uns als Futter.",
+            "preschool": "Hallo! Ich bin der kleine Hering und schwimme immer mit vielen Freunden in einem großen Schwarm. Jetzt werden wir ein bisschen weniger, doch wir halten fest zusammen."
+          }
+        }
+      },
+      "depth": 56,
+      "airBreather": false,
+      "voice": "A jittery, breathless voice — mid-to-high, slightly trembling, always a half-step behind. Fast, clipped delivery that tumbles over itself, with nervous little catches of breath. Anxious and overwhelmed, like someone trying to hold a whole crowd together at once. Restless, well-meaning, never quite calm.",
+      "voiceId": "Yk0WTrU4nwMPUzSTiH9J",
+      "kbId": "NvKjpOKkPJ5xd4IGf07K",
+      "agentId": "agent_8701kw7xdtbqfd8armxp4ysjea05"
+    },
+    "skarpsill": {
+      "id": "skarpsill",
+      "latin": "Sprattus sprattus",
+      "i18n": {
+        "sv": {
+          "name": "Skarpsill",
+          "role": "Den lilla snabba optimisten",
+          "status": "Talrik",
+          "fact": "När torsken kollapsade tog skarpsillen över - ett klassiskt regimskifte i Östersjön.",
+          "levels": {
+            "academic": "Skarpsillen (Sprattus sprattus) är en liten pelagisk planktivor vars bestånd expanderade kraftigt under det regimskifte som följde när torskbeståndet kollapsade - ett klassiskt exempel på predator release, det vill säga att rovdjurstrycket från torsken släppte. Som zooplanktonkonsument konkurrerar den med strömming om samma föda, vilket gör interaktionen täthetsberoende. ICES gör årliga beståndsskattningar och ger förvaltningsråd, och arten fångas industriellt och förädlas till fiskmjöl och fiskolja - något som aktualiserar frågor om bifångst och hållbart uttag. Skarpsillen gynnas dessutom av varmare vatten, medan torsken hålls tillbaka av syrebrist (hypoxi) kopplad till övergödning.",
+            "general": "Skarpsillen är en liten, snabb fisk som lever av djurplankton och simmar i stora stim. Den ökade kraftigt när torsken - dess viktigaste rovdjur - minskade, och i dag tävlar den med strömmingen om maten. Den fångas i stora mängder för industribruk och trivs dessutom när vattnet blir varmare.",
+            "child": "Skarpsillen är en pytteliten fisk som simmar snabbt i jättestora stim. När de stora torskarna blev färre fick skarpsillen plötsligt mycket mer plats - och blev jättemånga!",
+            "preschool": "Hej! Jag är skarpsillen, pytteliten men supersnabb. Vi simmar många tillsammans, och just nu är vi jättemånga!"
+          }
+        },
+        "en": {
+          "name": "Sprat",
+          "role": "The little speedy optimist",
+          "status": "Abundant",
+          "fact": "When cod collapsed, the sprat took over - a classic Baltic regime shift.",
+          "levels": {
+            "academic": "The sprat (Sprattus sprattus) is a small pelagic planktivore whose biomass expanded sharply during the regime shift that followed the collapse of the Baltic cod stock - a textbook case of predator release. As a zooplankton feeder it competes directly with herring for the same prey, making the interaction strongly density-dependent. ICES assesses the stock annually and issues management advice, and the species is harvested industrially for fishmeal and fish oil, raising questions of bycatch and sustainable removals. Warming waters tend to favour the sprat, whereas cod remains constrained by hypoxia linked to eutrophication.",
+            "general": "The sprat is a small, fast fish that lives on zooplankton and travels in huge schools. Its numbers soared as cod - its main predator - declined, and it now competes with herring for food. It is caught in large volumes for industrial use and does well as the sea grows warmer.",
+            "child": "The sprat is a tiny fish that zips through the water in enormous schools. When the big cod grew rare, the sprat suddenly had loads of room - and became incredibly numerous!",
+            "preschool": "Hi! I'm the sprat - really tiny but super fast. We swim in big groups so nobody is alone, and right now there are loads of us!"
+          }
+        },
+        "fi": {
+          "name": "Kilohaili",
+          "role": "Pieni nopea optimisti",
+          "status": "Runsaslukuinen",
+          "fact": "Kun turskakanta romahti, kilohaili otti vallan - klassinen Itämeren regiiminmuutos.",
+          "levels": {
+            "academic": "Kilohaili (Sprattus sprattus) on pieni pelaginen planktonsyöjä, jonka kanta runsastui voimakkaasti turskakannan romahdusta seuranneessa regiiminmuutoksessa - tyyppiesimerkki saalistuspaineen vähenemisestä (predator release). Eläinplanktonin kuluttajana se kilpailee silakan kanssa samasta ravinnosta, mikä tekee vuorovaikutuksesta tiheysriippuvaisen. ICES arvioi kannan vuosittain ja antaa hoitosuosituksia, ja lajia pyydetään teollisesti kalajauhoksi ja -öljyksi, mikä nostaa esiin sivusaaliin ja kestävän pyynnin kysymykset. Lämpenevä vesi suosii kilohailia, kun taas turskaa rajoittaa rehevöitymiseen kytkeytyvä hapenpuute (hypoksia).",
+            "general": "Kilohaili on pieni ja nopea kala, joka syö eläinplanktonia ja ui suurissa parvissa. Sen määrä kasvoi voimakkaasti, kun turska - sen tärkein saalistaja - väheni, ja nyt se kilpailee silakan kanssa ravinnosta. Sitä pyydetään suuria määriä teollisuuden tarpeisiin, ja se viihtyy veden lämmetessä.",
+            "child": "Kilohaili on pikkuruinen kala, joka kiitää vedessä valtavissa parvissa. Kun iso turska kävi harvinaiseksi, kilohaili sai yhtäkkiä paljon tilaa - ja niitä tuli tosi paljon!",
+            "preschool": "Hei! Minä olen kilohaili, ihan pikkuruinen mutta tosi nopea. Me uimme isona joukkona, eikä kukaan jää yksin - ja juuri nyt meitä on tosi paljon!"
+          }
+        },
+        "de": {
+          "name": "Sprotte",
+          "role": "Der kleine schnelle Optimist",
+          "status": "Häufig",
+          "fact": "Als der Dorschbestand zusammenbrach, übernahm die Sprotte - ein klassischer Regimewechsel in der Ostsee.",
+          "levels": {
+            "academic": "Die Sprotte (Sprattus sprattus) ist ein kleiner pelagischer Planktonfresser, dessen Bestand im Zuge des Regimewechsels nach dem Zusammenbruch des Dorschbestands stark anwuchs - ein Lehrbuchbeispiel für predator release, also den Wegfall des Fraßdrucks durch den Dorsch. Als Zooplanktonfresser konkurriert sie unmittelbar mit dem Hering um dieselbe Nahrung, weshalb die Wechselwirkung stark dichteabhängig ist. ICES bewertet den Bestand jährlich und gibt Bewirtschaftungsempfehlungen, und die Art wird industriell zu Fischmehl und Fischöl verarbeitet, was Fragen von Beifang und nachhaltiger Entnahme aufwirft. Wärmeres Wasser begünstigt die Sprotte, während der Dorsch durch eutrophierungsbedingte Sauerstoffarmut (Hypoxie) eingeschränkt bleibt.",
+            "general": "Die Sprotte ist ein kleiner, schneller Fisch, der sich von Zooplankton ernährt und in riesigen Schwärmen schwimmt. Ihr Bestand wuchs stark, als der Dorsch - ihr wichtigster Räuber - zurückging, und heute konkurriert sie mit dem Hering um Nahrung. Sie wird in großen Mengen industriell gefangen und profitiert zudem von wärmerem Wasser.",
+            "child": "Die Sprotte ist ein winziger Fisch, der blitzschnell in riesigen Schwärmen durchs Wasser flitzt. Als der große Dorsch selten wurde, hatte die Sprotte plötzlich ganz viel Platz - und wurde unglaublich zahlreich!",
+            "preschool": "Hallo! Ich bin die Sprotte, ganz winzig, aber superschnell. Wir schwimmen alle zusammen, damit niemand allein ist - und gerade jetzt sind wir ganz viele!"
+          }
+        }
+      },
+      "depth": 66,
+      "airBreather": false,
+      "voice": "A bright, peppy young voice — high, light and quick, brimming with cheerful energy. Bouncy rhythm, upbeat and curious, with a grin you can hear. Talks fast and excitedly, finding the silver lining in everything. Small, plucky and irrepressibly positive, like a kid who simply can't sit still.",
+      "voiceId": "9WKuln5hZALO95N3JPGM",
+      "kbId": "Y4lRf7dPdFqtoSnxlwHC",
+      "agentId": "agent_8501kw7xebywfcwtfbymwcp31fn3"
+    },
+    "flundra": {
+      "id": "flundra",
+      "latin": "Platichthys flesus",
+      "i18n": {
+        "sv": {
+          "name": "Skrubbskädda (flundra)",
+          "role": "Den platta bottenfilosofen",
+          "status": "Hotad av bottendöd",
+          "fact": "I Östersjön finns några av världens största syrefria havsbottnar – stora områden där flundran helt enkelt inte kan andas.",
+          "levels": {
+            "academic": "Skrubbskäddan (Platichthys flesus) är en bentisk plattfisk vars födosök är beroende av syresatta mjukbottnar, medan dess ägg utvecklas fritt i vattenmassan och kräver syresatt vatten. Östersjöns övergödning göder algblomningar, och när algmassan bryts ner förbrukas bottnens syre – följden är några av världens största hypoxiska bottnar där varken bottendjur eller fisk kan överleva. I dessa sediment ackumuleras dessutom miljögifter i nära kontakt med fisken. När de syrefria ytorna växer krymper skrubbskäddans livsmiljö, och organ som HELCOM och ICES övervakar både hypoxins utbredning och fiskbeståndens status.",
+            "general": "Skrubbskäddan lever på botten med båda ögonen vända uppåt och behöver syre i bottenvattnet för att hitta mat och kunna leka. När övergödningen ger algblomning och algerna sedan bryts ner försvinner syret, och stora delar av Östersjöns botten blir helt döda. Där flundran ska leva ligger dessutom gamla gifter kvar i sedimentet.",
+            "child": "Jag är en platt fisk som ligger på botten och tittar uppåt med båda ögonen. Men på många ställen i Östersjön finns det inget syre kvar på botten, och då blir det som en öken där jag inte kan bo.",
+            "preschool": "Hej! Jag är Flundran, jag är alldeles platt och bor på botten. Ibland tar syret slut här nere, men då letar jag efter ett bra ställe där jag kan andas och vila."
+          }
+        },
+        "en": {
+          "name": "European flounder",
+          "role": "The flat philosopher of the seabed",
+          "status": "Threatened by dead zones",
+          "fact": "The Baltic Sea holds some of the world's largest oxygen-free seabeds – vast areas where a flounder simply cannot breathe.",
+          "levels": {
+            "academic": "The European flounder (Platichthys flesus) is a benthic flatfish whose feeding depends on oxygenated soft-bottom habitats, while its eggs develop in the water column and require well-oxygenated water. Eutrophication in the Baltic Sea fuels algal blooms, and as the algal biomass decays it strips the seabed of oxygen – producing some of the world's largest hypoxic zones, where neither benthic fauna nor fish can survive. The sediments the flounder lives in also accumulate persistent contaminants. As these dead zones expand the species' habitat shrinks, and bodies such as HELCOM and ICES monitor both the extent of hypoxia and the status of the fish stocks.",
+            "general": "The flounder lies on the seabed with both eyes turned upward and needs oxygen in the bottom water to find food and to spawn. When eutrophication triggers algal blooms and the algae later break down, the oxygen disappears and large parts of the Baltic seabed become completely lifeless. The sediment it rests on also holds onto old toxins.",
+            "child": "I'm a flat fish that lies on the bottom and looks up with both of my eyes. But in many parts of the Baltic Sea there's no oxygen left down here, and then it turns into a desert where I can't live.",
+            "preschool": "Hi! I'm the Flounder, I'm completely flat and I live on the bottom. Sometimes the oxygen runs out down here, so I look for a good spot where I can breathe and rest."
+          }
+        },
+        "fi": {
+          "name": "Kampela",
+          "role": "Meren pohjan litteä filosofi",
+          "status": "Happikato uhkaa",
+          "fact": "Itämeressä on maailman suurimpia hapettomia merenpohjia – laajoja alueita, joilla kampela ei yksinkertaisesti pysty hengittämään.",
+          "levels": {
+            "academic": "Kampela (Platichthys flesus) on pohjalla elävä litteä kala, jonka ravinnonhaku on riippuvainen hapekkaista pehmeistä pohjista, kun taas sen mäti kehittyy vapaana vesimassassa ja vaatii hyvin hapekasta vettä. Itämeren rehevöityminen ruokkii leväkukintoja, ja kun levämassa hajoaa, se kuluttaa pohjan hapen – seurauksena on maailman laajimpia hapettomia eli hypoksisia pohjia, joilla ei elä pohjaeläimiä eikä kaloja. Pohjasedimentteihin, joissa kampela elää, kertyy lisäksi ympäristömyrkkyjä. Hapettomien alueiden laajetessa lajin elinympäristö kutistuu, ja HELCOMin ja ICESin kaltaiset elimet seuraavat sekä hapettomuuden laajuutta että kalakantojen tilaa.",
+            "general": "Kampela makaa pohjalla molemmat silmät ylöspäin ja tarvitsee happea pohjan lähellä löytääkseen ruokaa ja voidakseen kutea. Kun rehevöityminen aiheuttaa leväkukinnan ja levät myöhemmin hajoavat, happi katoaa ja suuret osat Itämeren pohjasta muuttuvat täysin elottomiksi. Pohjasedimenttiin, jolla kampela lepää, on lisäksi varastoitunut vanhoja myrkkyjä.",
+            "child": "Olen litteä kala, joka makaa pohjalla ja katsoo ylöspäin molemmilla silmillään. Mutta monin paikoin Itämeressä pohjalla ei ole enää happea, ja silloin siitä tulee autiomaa, jossa en voi asua.",
+            "preschool": "Hei! Minä olen Kampela, olen aivan litteä ja asun pohjalla. Joskus happi loppuu täältä alhaalta, ja silloin etsin hyvän paikan, jossa voin hengittää ja levätä."
+          }
+        },
+        "de": {
+          "name": "Flunder",
+          "role": "Der flache Philosoph vom Meeresgrund",
+          "status": "Durch Todeszonen bedroht",
+          "fact": "In der Ostsee liegen einige der größten sauerstofffreien Meeresböden der Welt – riesige Gebiete, in denen eine Flunder schlicht nicht atmen kann.",
+          "levels": {
+            "academic": "Die Flunder (Platichthys flesus) ist ein bodenlebender Plattfisch, dessen Nahrungssuche auf sauerstoffreiche Weichböden angewiesen ist, während sich ihre Eier frei im Wasser entwickeln und gut sauerstoffhaltiges Wasser benötigen. Die Überdüngung der Ostsee fördert Algenblüten, und beim Abbau der Algenmasse wird dem Meeresgrund der Sauerstoff entzogen – die Folge sind einige der größten hypoxischen Zonen der Welt, in denen weder Bodentiere noch Fische überleben können. In den Sedimenten, in denen die Flunder lebt, reichern sich zudem Umweltgifte an. Breiten sich diese Todeszonen aus, schrumpft der Lebensraum der Art, und Gremien wie HELCOM und ICES überwachen sowohl die Ausdehnung der Hypoxie als auch den Zustand der Fischbestände.",
+            "general": "Die Flunder liegt mit beiden Augen nach oben auf dem Meeresgrund und braucht Sauerstoff im Bodenwasser, um Nahrung zu finden und zu laichen. Wenn die Überdüngung Algenblüten auslöst und die Algen später zerfallen, verschwindet der Sauerstoff, und große Teile des Ostseebodens werden völlig leblos. Im Sediment, auf dem sie ruht, stecken außerdem alte Gifte.",
+            "child": "Ich bin ein flacher Fisch, der auf dem Boden liegt und mit beiden Augen nach oben schaut. Aber an vielen Stellen der Ostsee gibt es hier unten keinen Sauerstoff mehr, und dann wird daraus eine Wüste, in der ich nicht wohnen kann.",
+            "preschool": "Hallo! Ich bin die Flunder, ich bin ganz flach und wohne am Boden. Manchmal geht hier unten der Sauerstoff aus, dann suche ich mir einen guten Platz, wo ich atmen und mich ausruhen kann."
+          }
+        }
+      },
+      "depth": 74,
+      "airBreather": false,
+      "voice": "A calm, low, mellow voice with a slow, contemplative drawl, as if speaking from the soft seabed. Deep and unhurried, warm yet a touch detached, full of thoughtful pauses. Philosophical and grounded, never rushed — a wise hermit who has settled into the mud and watched the world drift by for years.",
+      "voiceId": "EFbrWw3YTC5WBxf0XbnQ",
+      "kbId": "aOEgQ6PiqY5Eq5Hd2vgL",
+      "agentId": "agent_8201kw7xewv9frasag7qp1717zp6"
+    },
+    "torsk": {
+      "id": "torsk",
+      "latin": "Gadus morhua",
+      "i18n": {
+        "sv": {
+          "name": "Torsk",
+          "role": "Den trötta gamla rovfisken",
+          "status": "Beståndet har kollapsat",
+          "fact": "EU stoppade det riktade torskfisket i östra Östersjön 2019.",
+          "levels": {
+            "academic": "Torsken (Gadus morhua) var länge Östersjöns dominerande rovfisk, men det östra beståndet har genomgått ett regimskifte och kollapsat. Övergödningen driver utbredd syrebrist som krymper artens livsmiljö och tränger ihop fisken i ett smalt skikt ovanför de döda bottnarna, samtidigt som uteblivna saltvatteninflöden från Nordsjön försämrar reproduktionen. Magrare individer, hög parasitbörda (framför allt den sälspridda levermasken Contracaecum osculatum) och brist på bytesfisk samspelar med fortsatt bifångst, och 2019 stoppade EU på ICES inrådan det riktade fisket. Torsken har blivit en symbol för en rubbad balans i ekosystemet, något som HELCOM och ICES följer noga.",
+            "general": "Torsken var en gång Östersjöns stora rovfisk, men det östra beståndet har kollapsat och fisken är i dag mindre och magrare än förr. Syrebristen vid bottnarna krymper dess livsutrymme, och utan inflöden av salt, syrerikt vatten från Nordsjön har den svårt att leka. EU stoppade det riktade torskfisket 2019.",
+            "child": "Förr var torsken Östersjöns största rovfisk, men nu finns det nästan inga stora torskar kvar. De har blivit små och magra och vågar knappt simma ner till botten, där vattnet saknar syre.",
+            "preschool": "Hej! Jag är torsken, en gammal trött rovfisk. Förr var vi många och stora, men nu är vi ganska få och små – så jag behöver din hjälp att må bättre."
+          }
+        },
+        "en": {
+          "name": "Cod",
+          "role": "The tired old predator fish",
+          "status": "Stock has collapsed",
+          "fact": "The EU halted targeted cod fishing in the eastern Baltic in 2019.",
+          "levels": {
+            "academic": "Cod (Gadus morhua) was long the Baltic Sea's dominant predator, but the eastern stock has undergone a regime shift and collapsed. Eutrophication drives widespread hypoxia that shrinks the species' habitat, compressing the fish into a thin layer above the dead seabeds, while the absence of saline inflows from the North Sea undermines reproduction. Leaner individuals, a heavy parasite burden (chiefly the seal-borne liver nematode Contracaecum osculatum) and scarce prey interact with continued bycatch pressure, leading the EU to halt directed fishing in 2019 on ICES advice. The cod has become a symbol of a disrupted ecological balance, closely monitored by HELCOM and ICES.",
+            "general": "Cod was once the Baltic's great predator, but the eastern stock has collapsed and the fish are now smaller and leaner than before. Oxygen-starved bottom waters shrink its living space, and without inflows of salty, oxygen-rich water from the North Sea it struggles to spawn. The EU stopped targeted cod fishing in 2019.",
+            "child": "Cod used to be the biggest hunter in the Baltic Sea, but now there are hardly any big ones left. They have grown small and thin and can barely swim down to the bottom, because there is no oxygen there.",
+            "preschool": "Hi! I am the cod, a tired old hunting fish. We used to be big and there were lots of us, but now we are few and small — so I need your help to feel better."
+          }
+        },
+        "fi": {
+          "name": "Turska",
+          "role": "Väsynyt vanha petokala",
+          "status": "Kanta on romahtanut",
+          "fact": "EU lopetti turskan kohdennetun kalastuksen itäisellä Itämerellä vuonna 2019.",
+          "levels": {
+            "academic": "Turska (Gadus morhua) oli pitkään Itämeren valtapeto, mutta itäinen kanta on käynyt läpi regiimimuutoksen ja romahtanut. Rehevöityminen aiheuttaa laajaa hapettomuutta, joka kutistaa lajin elinympäristöä ja ahtaa kalat kapeaan kerrokseen kuolleiden pohjien yläpuolelle, samalla kun Pohjanmereltä tulevien suolaisten vesien sisäänvirtausten puute heikentää lisääntymistä. Laihtuneet yksilöt, runsas loiskuormitus (etenkin hylkeiden levittämä maksanematodi Contracaecum osculatum) sekä saaliskalojen vähyys yhdistyvät jatkuvaan sivusaaliin paineeseen, ja EU lopetti kohdennetun kalastuksen vuonna 2019 ICESin suosituksesta. Turskasta on tullut Itämeren järkkyneen tasapainon symboli, jota HELCOM ja ICES seuraavat tarkasti.",
+            "general": "Turska oli aikoinaan Itämeren suuri petokala, mutta itäinen kanta on romahtanut, ja kalat ovat nykyään pienempiä ja laihempia kuin ennen. Pohjien hapettomuus kutistaa sen elintilaa, eikä se pysty kunnolla kutemaan ilman Pohjanmereltä tulevaa suolaista, happirikasta vettä. EU lopetti turskan kohdennetun kalastuksen vuonna 2019.",
+            "child": "Ennen turska oli Itämeren suurin saalistaja, mutta nyt isoja turskia ei juuri ole jäljellä. Ne ovat käyneet pieniksi ja laihoiksi eivätkä uskalla uida pohjaan asti, koska siellä ei ole happea.",
+            "preschool": "Hei! Minä olen turska, väsynyt vanha petokala. Ennen meitä oli paljon ja olimme isoja, mutta nyt meitä on vähän ja olemme pieniä – tarvitsen siis apuasi voidakseni paremmin."
+          }
+        },
+        "de": {
+          "name": "Dorsch",
+          "role": "Der müde alte Raubfisch",
+          "status": "Bestand ist zusammengebrochen",
+          "fact": "Die EU stoppte 2019 die gezielte Dorschfischerei in der östlichen Ostsee.",
+          "levels": {
+            "academic": "Der Dorsch (Gadus morhua) war lange der dominierende Raubfisch der Ostsee, doch der östliche Bestand hat einen ökologischen Regimewechsel durchlaufen und ist zusammengebrochen. Die Überdüngung führt zu großflächiger Sauerstoffarmut, die den Lebensraum der Art verkleinert und die Fische in eine schmale Schicht über den toten Böden zwängt, während das Ausbleiben salzreicher Einströme aus der Nordsee die Fortpflanzung beeinträchtigt. Magerere Tiere, eine hohe Parasitenlast (vor allem der von Robben übertragene Leberparasit Contracaecum osculatum) und Beutemangel wirken mit dem anhaltenden Beifangdruck zusammen, weshalb die EU 2019 auf Empfehlung des ICES die gezielte Fischerei einstellte. Der Dorsch ist zum Symbol eines gestörten ökologischen Gleichgewichts geworden, das HELCOM und ICES genau beobachten.",
+            "general": "Der Dorsch war einst der große Raubfisch der Ostsee, doch der östliche Bestand ist zusammengebrochen, und die Fische sind heute kleiner und magerer als früher. Der Sauerstoffmangel am Grund verkleinert seinen Lebensraum, und ohne salzreiches, sauerstoffreiches Wasser aus der Nordsee kann er kaum laichen. Die EU stoppte 2019 die gezielte Dorschfischerei.",
+            "child": "Früher war der Dorsch der größte Jäger der Ostsee, aber jetzt gibt es kaum noch große Dorsche. Sie sind klein und mager geworden und trauen sich kaum bis zum Grund, weil es dort keinen Sauerstoff gibt.",
+            "preschool": "Hallo! Ich bin der Dorsch, ein müder alter Jägerfisch. Früher waren wir viele und groß, aber jetzt sind wir nur noch wenige und klein – darum brauche ich deine Hilfe, damit es mir besser geht."
+          }
+        }
+      },
+      "depth": 86,
+      "airBreather": false,
+      "voice": "An old, weary voice — deep, gravelly and slow, like a retired sea-captain who has seen better days. Low pitch with a rough, smoky rasp and long, sighing pauses. Resigned and a little melancholy, but carrying faded authority. Speaks unhurried, every word heavy, as if tired right down to the bone.",
+      "voiceId": "POwcCwtX4FpJ0KBsh6Sc",
+      "kbId": "2HMMQMz7UJNnMuWLHZCo",
+      "agentId": "agent_2001kw7xfcybfzfbxxrg9dtjxg7b"
+    }
+  }
+}

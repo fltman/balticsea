@@ -1,0 +1,60 @@
+{
+  "id": "flundra",
+  "latin": "Platichthys flesus",
+  "i18n": {
+    "sv": {
+      "name": "Skrubbskädda (flundra)",
+      "role": "Den platta bottenfilosofen",
+      "status": "Hotad av bottendöd",
+      "fact": "I Östersjön finns några av världens största syrefria havsbottnar – stora områden där flundran helt enkelt inte kan andas.",
+      "levels": {
+        "academic": "Skrubbskäddan (Platichthys flesus) är en bentisk plattfisk vars födosök är beroende av syresatta mjukbottnar, medan dess ägg utvecklas fritt i vattenmassan och kräver syresatt vatten. Östersjöns övergödning göder algblomningar, och när algmassan bryts ner förbrukas bottnens syre – följden är några av världens största hypoxiska bottnar där varken bottendjur eller fisk kan överleva. I dessa sediment ackumuleras dessutom miljögifter i nära kontakt med fisken. När de syrefria ytorna växer krymper skrubbskäddans livsmiljö, och organ som HELCOM och ICES övervakar både hypoxins utbredning och fiskbeståndens status.",
+        "general": "Skrubbskäddan lever på botten med båda ögonen vända uppåt och behöver syre i bottenvattnet för att hitta mat och kunna leka. När övergödningen ger algblomning och algerna sedan bryts ner försvinner syret, och stora delar av Östersjöns botten blir helt döda. Där flundran ska leva ligger dessutom gamla gifter kvar i sedimentet.",
+        "child": "Jag är en platt fisk som ligger på botten och tittar uppåt med båda ögonen. Men på många ställen i Östersjön finns det inget syre kvar på botten, och då blir det som en öken där jag inte kan bo.",
+        "preschool": "Hej! Jag är Flundran, jag är alldeles platt och bor på botten. Ibland tar syret slut här nere, men då letar jag efter ett bra ställe där jag kan andas och vila."
+      }
+    },
+    "en": {
+      "name": "European flounder",
+      "role": "The flat philosopher of the seabed",
+      "status": "Threatened by dead zones",
+      "fact": "The Baltic Sea holds some of the world's largest oxygen-free seabeds – vast areas where a flounder simply cannot breathe.",
+      "levels": {
+        "academic": "The European flounder (Platichthys flesus) is a benthic flatfish whose feeding depends on oxygenated soft-bottom habitats, while its eggs develop in the water column and require well-oxygenated water. Eutrophication in the Baltic Sea fuels algal blooms, and as the algal biomass decays it strips the seabed of oxygen – producing some of the world's largest hypoxic zones, where neither benthic fauna nor fish can survive. The sediments the flounder lives in also accumulate persistent contaminants. As these dead zones expand the species' habitat shrinks, and bodies such as HELCOM and ICES monitor both the extent of hypoxia and the status of the fish stocks.",
+        "general": "The flounder lies on the seabed with both eyes turned upward and needs oxygen in the bottom water to find food and to spawn. When eutrophication triggers algal blooms and the algae later break down, the oxygen disappears and large parts of the Baltic seabed become completely lifeless. The sediment it rests on also holds onto old toxins.",
+        "child": "I'm a flat fish that lies on the bottom and looks up with both of my eyes. But in many parts of the Baltic Sea there's no oxygen left down here, and then it turns into a desert where I can't live.",
+        "preschool": "Hi! I'm the Flounder, I'm completely flat and I live on the bottom. Sometimes the oxygen runs out down here, so I look for a good spot where I can breathe and rest."
+      }
+    },
+    "fi": {
+      "name": "Kampela",
+      "role": "Meren pohjan litteä filosofi",
+      "status": "Happikato uhkaa",
+      "fact": "Itämeressä on maailman suurimpia hapettomia merenpohjia – laajoja alueita, joilla kampela ei yksinkertaisesti pysty hengittämään.",
+      "levels": {
+        "academic": "Kampela (Platichthys flesus) on pohjalla elävä litteä kala, jonka ravinnonhaku on riippuvainen hapekkaista pehmeistä pohjista, kun taas sen mäti kehittyy vapaana vesimassassa ja vaatii hyvin hapekasta vettä. Itämeren rehevöityminen ruokkii leväkukintoja, ja kun levämassa hajoaa, se kuluttaa pohjan hapen – seurauksena on maailman laajimpia hapettomia eli hypoksisia pohjia, joilla ei elä pohjaeläimiä eikä kaloja. Pohjasedimentteihin, joissa kampela elää, kertyy lisäksi ympäristömyrkkyjä. Hapettomien alueiden laajetessa lajin elinympäristö kutistuu, ja HELCOMin ja ICESin kaltaiset elimet seuraavat sekä hapettomuuden laajuutta että kalakantojen tilaa.",
+        "general": "Kampela makaa pohjalla molemmat silmät ylöspäin ja tarvitsee happea pohjan lähellä löytääkseen ruokaa ja voidakseen kutea. Kun rehevöityminen aiheuttaa leväkukinnan ja levät myöhemmin hajoavat, happi katoaa ja suuret osat Itämeren pohjasta muuttuvat täysin elottomiksi. Pohjasedimenttiin, jolla kampela lepää, on lisäksi varastoitunut vanhoja myrkkyjä.",
+        "child": "Olen litteä kala, joka makaa pohjalla ja katsoo ylöspäin molemmilla silmillään. Mutta monin paikoin Itämeressä pohjalla ei ole enää happea, ja silloin siitä tulee autiomaa, jossa en voi asua.",
+        "preschool": "Hei! Minä olen Kampela, olen aivan litteä ja asun pohjalla. Joskus happi loppuu täältä alhaalta, ja silloin etsin hyvän paikan, jossa voin hengittää ja levätä."
+      }
+    },
+    "de": {
+      "name": "Flunder",
+      "role": "Der flache Philosoph vom Meeresgrund",
+      "status": "Durch Todeszonen bedroht",
+      "fact": "In der Ostsee liegen einige der größten sauerstofffreien Meeresböden der Welt – riesige Gebiete, in denen eine Flunder schlicht nicht atmen kann.",
+      "levels": {
+        "academic": "Die Flunder (Platichthys flesus) ist ein bodenlebender Plattfisch, dessen Nahrungssuche auf sauerstoffreiche Weichböden angewiesen ist, während sich ihre Eier frei im Wasser entwickeln und gut sauerstoffhaltiges Wasser benötigen. Die Überdüngung der Ostsee fördert Algenblüten, und beim Abbau der Algenmasse wird dem Meeresgrund der Sauerstoff entzogen – die Folge sind einige der größten hypoxischen Zonen der Welt, in denen weder Bodentiere noch Fische überleben können. In den Sedimenten, in denen die Flunder lebt, reichern sich zudem Umweltgifte an. Breiten sich diese Todeszonen aus, schrumpft der Lebensraum der Art, und Gremien wie HELCOM und ICES überwachen sowohl die Ausdehnung der Hypoxie als auch den Zustand der Fischbestände.",
+        "general": "Die Flunder liegt mit beiden Augen nach oben auf dem Meeresgrund und braucht Sauerstoff im Bodenwasser, um Nahrung zu finden und zu laichen. Wenn die Überdüngung Algenblüten auslöst und die Algen später zerfallen, verschwindet der Sauerstoff, und große Teile des Ostseebodens werden völlig leblos. Im Sediment, auf dem sie ruht, stecken außerdem alte Gifte.",
+        "child": "Ich bin ein flacher Fisch, der auf dem Boden liegt und mit beiden Augen nach oben schaut. Aber an vielen Stellen der Ostsee gibt es hier unten keinen Sauerstoff mehr, und dann wird daraus eine Wüste, in der ich nicht wohnen kann.",
+        "preschool": "Hallo! Ich bin die Flunder, ich bin ganz flach und wohne am Boden. Manchmal geht hier unten der Sauerstoff aus, dann suche ich mir einen guten Platz, wo ich atmen und mich ausruhen kann."
+      }
+    }
+  },
+  "depth": 74,
+  "airBreather": false,
+  "voice": "A calm, low, mellow voice with a slow, contemplative drawl, as if speaking from the soft seabed. Deep and unhurried, warm yet a touch detached, full of thoughtful pauses. Philosophical and grounded, never rushed — a wise hermit who has settled into the mud and watched the world drift by for years.",
+  "voiceId": "EFbrWw3YTC5WBxf0XbnQ",
+  "kbId": "aOEgQ6PiqY5Eq5Hd2vgL",
+  "agentId": "agent_8201kw7xewv9frasag7qp1717zp6"
+}
